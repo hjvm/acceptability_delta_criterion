@@ -1,0 +1,1273 @@
+,id,sentence,dataset,num_flips
+9,32.1.martin.20a.*.02,They appear to that Chris is the right person for the job.,LI,48
+10,32.1.martin.20a.*.03,She seems to that Garrett should be punished for lying.,LI,42
+11,32.1.martin.20a.*.04,I appear to that Data is an unsafe driver.,LI,2
+12,32.1.martin.20a.*.05,I seem to that Robert can't be trusted.,LI,40
+37,32.1.martin.23a.g.06,Charles believed Faith to be unhappy.,LI,2
+50,32.1.martin.26a.??.03,Susan attempted to have performed a backflip.,LI,92
+52,32.1.martin.26a.??.05,Sarah hoped to have gone to the party.,LI,92
+53,32.1.martin.26a.??.06,Scott intended to have run for class president.,LI,28
+54,32.1.martin.26a.??.07,Vanessa refused to have taken out the garbage.,LI,2
+55,32.1.martin.26a.??.08,Michael managed to have driven his car.,LI,30
+56,32.1.martin.26b.??.01,Sarah convinced Bill to have gone to the party.,LI,64
+57,32.1.martin.26b.??.02,Joe convinced Sue to have eaten her lunch.,LI,106
+58,32.1.martin.26b.??.03,Juan convinced Maria to have finished her shopping.,LI,92
+59,32.1.martin.26b.??.04,Betty convinced Fred to have washed the car.,LI,98
+60,32.1.martin.26b.??.05,Cindy convinced Charles to have gone to the bank.,LI,98
+61,32.1.martin.26b.??.06,Debra convinced Elliot to have washed the dishes.,LI,102
+62,32.1.martin.26b.??.07,Elaine convinced Francis to have taken a shower.,LI,102
+63,32.1.martin.26b.??.08,Mindy convinced George to have finished the novel.,LI,100
+80,32.1.martin.2c.*.01,Sarah saw pictures of.,LI,50
+81,32.1.martin.2c.*.02,Jimmy saw baskets of.,LI,40
+82,32.1.martin.2c.*.03,Brittany touched plenty of.,LI,6
+83,32.1.martin.2c.*.04,Frank ate mountains of.,LI,106
+84,32.1.martin.2c.*.05,Kat kept tons of.,LI,2
+85,32.1.martin.2c.*.06,Phillip saw movies of.,LI,96
+86,32.1.martin.2c.*.07,Vivian wrote stories of.,LI,102
+87,32.1.martin.2c.*.08,Tommy pictured memories of.,LI,26
+89,32.1.martin.39a.*.02,Anthony believed Dawn to hit the ball.,LI,4
+90,32.1.martin.39a.*.03,Charlene believed Shawn to write the paper.,LI,52
+91,32.1.martin.39a.*.04,Marty believed Carla to fix the computer.,LI,14
+92,32.1.martin.39a.*.05,Jessica believed Brad to start the car.,LI,2
+93,32.1.martin.39a.*.06,Charles believed Faith to smash the bag.,LI,94
+94,32.1.martin.39a.*.07,Lacey believed John to eat the food.,LI,12
+95,32.1.martin.39a.*.08,Victor believed Dana to throw the trash.,LI,44
+106,32.1.martin.65b.*.03,Bill heard from Sarah their boss was fired.,LI,16
+108,32.1.martin.65b.*.05,Thomas read in the paper the stock market crashed.,LI,24
+110,32.1.martin.65b.*.07,David learned from the internet Lindsay Lohan is back in rehab.,LI,82
+120,32.1.martin.66b.*.01,It is illegal one to criticize the government.,LI,8
+124,32.1.martin.66b.*.05,It is silly one to sing in the shower.,LI,18
+126,32.1.martin.66b.*.07,It is normal one to be afraid of the dentist.,LI,86
+127,32.1.martin.66b.*.08,It is unfair one to judge the less fortunate.,LI,112
+136,32.1.martin.69b.*.01,My belief Kim is clever is sincere.,LI,78
+144,32.1.martin.77.g.01,How likely to win the race is John?,LI,34
+145,32.1.martin.77.g.02,How likely to get the promotion is Elizabeth?,LI,78
+146,32.1.martin.77.g.03,How likely to win the election is Kristin?,LI,2
+147,32.1.martin.77.g.04,How likely to buy the car is Sam?,LI,90
+148,32.1.martin.77.g.05,How likely to sell the house is Diane?,LI,72
+149,32.1.martin.77.g.06,How likely to pass the class is Alex?,LI,78
+150,32.1.martin.77.g.07,How likely to break the record is Ellen?,LI,92
+151,32.1.martin.77.g.08,How likely to take the job is Nancy?,LI,92
+152,32.1.martin.79.*.01,How likely to be a riot is there?,LI,52
+153,32.1.martin.79.*.02,How likely to be a meeting is there?,LI,80
+154,32.1.martin.79.*.03,How likely to be a strike is there?,LI,44
+155,32.1.martin.79.*.04,How likely to be a party is there?,LI,92
+156,32.1.martin.79.*.05,How likely to be a stock market crash is there?,LI,22
+157,32.1.martin.79.*.06,How likely to be a storm is there?,LI,88
+158,32.1.martin.79.*.07,How likely to be an earthquake is there?,LI,58
+159,32.1.martin.79.*.08,How likely to be a tornado is there?,LI,42
+168,32.1.martin.93b.*.01,John is illegal to park here.,LI,22
+169,32.1.martin.93b.*.02,Linda is possible to pass the test.,LI,28
+170,32.1.martin.93b.*.03,Steven is necessary to go for a walk.,LI,56
+174,32.1.martin.93b.*.07,Dylan was planned to write the computer program.,LI,8
+175,32.1.martin.93b.*.08,Carla was hoped to graduate high school.,LI,40
+179,32.2.alexiadou.31a.*.04,"Ready, aim, fire! directed strictly the army sergeant.",LI,34
+181,32.2.alexiadou.31a.*.06,Stop bullying me! shouted fearfully the overweight child.,LI,88
+185,32.2.alexiadou.31b.g.02,Wait one moment please! asked the voice recording kindly.,LI,96
+186,32.2.alexiadou.31b.g.03,This just in! interrupted the radio announcer hastily.,LI,76
+187,32.2.alexiadou.31b.g.04,"Ready, aim, fire! directed the army sergeant strictly.",LI,10
+192,32.2.boeckx.11.*.01,"Debbie ate chocolate, and Kathy milk drank.",LI,72
+194,32.2.boeckx.11.*.03,"Jack washed the dishes, and Kate the laundry folded.",LI,72
+195,32.2.boeckx.11.*.04,"Laura set the table, and Sharon the cake baked.",LI,6
+196,32.2.boeckx.11.*.05,"Mark turned on the TV, and Penny the DVD player loaded.",LI,36
+197,32.2.boeckx.11.*.06,"Jason drove his car, and Tara her bike rode.",LI,2
+199,32.2.boeckx.11.*.08,"Heather dusted the shelves, and Madison the carpet vacuumed.",LI,84
+217,32.2.nunes.3a2.g.02,The book was read.,LI,88
+266,32.2.stroik.13b.*.03,They all have finished and they have done all so efficiently.,LI,6
+268,32.2.stroik.13b.*.05,They all have practiced and they have done all so regularly.,LI,6
+269,32.2.stroik.13b.*.06,They all have studied and they have done all so effectively.,LI,6
+270,32.2.stroik.13b.*.07,They all have spoken and they have done all so eloquently.,LI,2
+271,32.2.stroik.13b.*.08,They all have listened and they have done all so intently.,LI,28
+304,32.3.Culicover.15bii.*.01,John flattered Mary while insulting herself.,LI,96
+305,32.3.Culicover.15bii.*.02,Amber called Anthony after injuring himself.,LI,14
+306,32.3.Culicover.15bii.*.03,Tim complimented Hannah after introducing herself.,LI,22
+307,32.3.Culicover.15bii.*.04,Tina aggravated Ethan while amusing himself.,LI,2
+308,32.3.Culicover.15bii.*.05,Natalie surprised Jared while boring himself.,LI,92
+309,32.3.Culicover.15bii.*.06,Dale found Brooke after frightening herself.,LI,96
+310,32.3.Culicover.15bii.*.07,Molly avoided Keith after embarrassing himself.,LI,42
+315,32.3.Culicover.15bii.g.04,Tina aggravated Ethan while amusing herself.,LI,34
+317,32.3.Culicover.15bii.g.06,Dale found Brooke after frightening himself.,LI,66
+320,32.3.Culicover.22b.*.01,John told Sue when to wash himself.,LI,32
+324,32.3.Culicover.22b.*.05,Stewart told Tina when to burn himself.,LI,104
+326,32.3.Culicover.22b.*.07,Patty told Mike when to insult herself.,LI,72
+327,32.3.Culicover.22b.*.08,Olivia told Gregory when to exonerate herself.,LI,4
+328,32.3.Culicover.22b.g.01,John told Sue when to wash herself.,LI,18
+330,32.3.Culicover.22b.g.03,Mindy told Chuck when to praise herself.,LI,90
+332,32.3.Culicover.22b.g.05,Stewart told Tina when to burn herself.,LI,16
+334,32.3.Culicover.22b.g.07,Patty told Mike when to insult himself.,LI,18
+338,32.3.Culicover.25d.*.03,Last week there was a request to transfer oneself.,LI,6
+339,32.3.Culicover.25d.*.04,Last year there was a proposal to fire oneself.,LI,18
+343,32.3.Culicover.25d.*.08,Last Friday there was an order to transfer oneself.,LI,4
+352,32.3.Culicover.28c.*.01,Helen examined Bernie in order for us to vindicate herself.,LI,84
+353,32.3.Culicover.28c.*.02,Nathan called Samantha in order for us to amuse himself.,LI,26
+354,32.3.Culicover.28c.*.03,Austin left instructions in order for us to help himself.,LI,44
+357,32.3.Culicover.28c.*.06,Edward created a website in order for us to promote himself.,LI,2
+358,32.3.Culicover.28c.*.07,Cynthia threw a party in order for us to establish herself.,LI,2
+368,32.3.Culicover.32a.*.01,John's promise to Susan to take care of herself.,LI,8
+369,32.3.Culicover.32a.*.02,Erica's vow to Matt to take care of himself.,LI,26
+370,32.3.Culicover.32a.*.03,Ryan's offer to Susan to take care of herself.,LI,84
+371,32.3.Culicover.32a.*.04,Natalie's guarantee to Robert to take care of himself.,LI,8
+372,32.3.Culicover.32a.*.05,Ethan's obligation to Patricia to take care of herself.,LI,16
+373,32.3.Culicover.32a.*.06,Debbie's pledge to Jason to take care of himself.,LI,94
+374,32.3.Culicover.32a.*.07,Carl's pledge to Jenny to take care of herself.,LI,102
+375,32.3.Culicover.32a.*.08,Melissa's pledge to Dan to take care of himself.,LI,60
+376,32.3.Culicover.32a.g.01,John's promise to Susan to take care of himself.,LI,26
+377,32.3.Culicover.32a.g.02,Erica's vow to Matt to take care of herself.,LI,114
+378,32.3.Culicover.32a.g.03,Ryan's offer to Susan to take care of himself.,LI,36
+380,32.3.Culicover.32a.g.05,Ethan's obligation to Patricia to take care of himself.,LI,8
+381,32.3.Culicover.32a.g.06,Debbie's pledge to Jason to take care of herself.,LI,100
+382,32.3.Culicover.32a.g.07,Carl's pledge to Jenny to take care of himself.,LI,72
+383,32.3.Culicover.32a.g.08,Melissa's pledge to Dan to take care of herself.,LI,94
+384,32.3.Culicover.41b.*.01,Toby said to Sally to take care of himself.,LI,84
+385,32.3.Culicover.41b.*.02,Veronica shouted to Nathan to look after herself.,LI,104
+387,32.3.Culicover.41b.*.04,Stacey screamed to Anthony to cover herself.,LI,2
+388,32.3.Culicover.41b.*.05,Brent signaled to Samantha to excuse himself.,LI,42
+389,32.3.Culicover.41b.*.06,Amy said to Shane to entertain herself.,LI,16
+390,32.3.Culicover.41b.*.07,Eric shouted to Maria to believe in himself.,LI,8
+391,32.3.Culicover.41b.*.08,Tania signaled to Frank to behave herself.,LI,16
+393,32.3.Culicover.41b.g.02,Veronica shouted to Nathan to look after himself.,LI,86
+394,32.3.Culicover.41b.g.03,Christopher yelled to April to protect herself.,LI,16
+396,32.3.Culicover.41b.g.05,Brent signaled to Samantha to excuse herself.,LI,8
+398,32.3.Culicover.41b.g.07,Eric shouted to Maria to believe in herself.,LI,12
+399,32.3.Culicover.41b.g.08,Tania signaled to Frank to behave himself.,LI,28
+403,32.3.Culicover.49a.*.04,Eva beseeched Luke to be allowed to take care of himself.,LI,2
+408,32.3.Culicover.49a.g.01,Jack asked Sally to be allowed to take care of himself.,LI,12
+409,32.3.Culicover.49a.g.02,Beth begged Peter to be allowed to take care of herself.,LI,92
+410,32.3.Culicover.49a.g.03,Dean requested Michelle to be allowed to take care of himself.,LI,6
+411,32.3.Culicover.49a.g.04,Eva beseeched Luke to be allowed to take care of herself.,LI,16
+414,32.3.Culicover.49a.g.07,Katie asked Greg to be allowed to take care of herself.,LI,22
+424,32.3.Culicover.7b.*.01,John tried himself to win.,LI,14
+425,32.3.Culicover.7b.*.02,Kelly attempted herself to run the marathon.,LI,68
+427,32.3.Culicover.7b.*.04,Linda remembered herself to pick-up the dry cleaning.,LI,86
+428,32.3.Culicover.7b.*.05,Peter hoped himself to find a date.,LI,72
+429,32.3.Culicover.7b.*.06,Patricia agreed herself to host the party.,LI,78
+430,32.3.Culicover.7b.*.07,Alex started himself to study Karate.,LI,60
+432,32.3.fanselow.28b.*.01,He saw Mary and kissed.,LI,80
+433,32.3.fanselow.28b.*.02,She ran into Spencer and asked out.,LI,76
+438,32.3.fanselow.28b.*.07,He grabbed Ryan and tackled.,LI,6
+451,32.3.fanselow.58a.g.04,There has been an announcement made in the newspaper.,LI,8
+457,32.3.fanselow.58b.*.02,There has been stolen a necklace from the jewelry store.,LI,56
+458,32.3.fanselow.58b.*.03,There has been elected a new governor in California.,LI,32
+460,32.3.fanselow.58b.*.05,There has been written another story about the new healthcare law.,LI,104
+461,32.3.fanselow.58b.*.06,There has been signed a treaty between Israel and Palestine.,LI,4
+462,32.3.fanselow.58b.*.07,There has been reached a deal between the two parties.,LI,14
+463,32.3.fanselow.58b.*.08,There has been issued a verdict about the new marriage law.,LI,90
+466,32.3.fanselow.58c.g.03,There has been a student considered dangerous.,LI,8
+470,32.3.fanselow.58c.g.07,There has been a dog considered noisy.,LI,8
+490,32.3.fanselow.59b.*.03,He sent a card his mother.,LI,82
+491,32.3.fanselow.59b.*.04,She wrote a poem her boyfriend.,LI,2
+495,32.3.fanselow.59b.*.08,She picked some flowers Matt.,LI,28
+496,32.4.lopez.10a.*.01,We proclaimed to the public John to be a hero.,LI,10
+497,32.4.lopez.10a.*.02,We proved to the authorities Susan to be the thief.,LI,24
+498,32.4.lopez.10a.*.03,We believed with all our hearts Ben to be innocent.,LI,6
+501,32.4.lopez.10a.*.06,We proved to the manager Amelia to be responsible.,LI,12
+502,32.4.lopez.10a.*.07,We believed without hesitation Kenneth to be trustworthy.,LI,2
+505,32.4.lopez.14b.*.02,We consider there three problems.,LI,2
+506,32.4.lopez.14b.*.03,Jack expects there flowers.,LI,56
+508,32.4.lopez.14b.*.05,Mr. Simpson considers there danger.,LI,54
+509,32.4.lopez.14b.*.06,Ms. Wiggins expected there fireworks.,LI,66
+510,32.4.lopez.14b.*.07,Mr. Telford expected there trouble.,LI,64
+520,32.4.lopez.9a.g.01,We proclaimed John to the public to be a hero.,LI,2
+521,32.4.lopez.9a.g.02,We proved Susan to the authorities to be the thief.,LI,12
+523,32.4.lopez.9a.g.04,We alleged Carrie to the police to be guilty.,LI,36
+524,32.4.lopez.9a.g.05,We proclaimed Ralph in the newspaper to be generous.,LI,20
+525,32.4.lopez.9a.g.06,We proved Amelia to the manager to be responsible.,LI,96
+527,32.4.lopez.9a.g.08,We alleged Ellen to the judge to be a liar.,LI,68
+530,33.1.denDikken.5a.g.03,I confirmed who would attend the party.,LI,2
+533,33.1.denDikken.5a.g.06,I proved who committed the crime.,LI,80
+553,33.1.denDikken.62b.*.02,"I don't think that any reporters, I will invite to the event.",LI,36
+554,33.1.denDikken.62b.*.03,"I don't believe that any doctors, I will invite to the ceremony.",LI,4
+555,33.1.denDikken.62b.*.04,"I don't think that any parents, I will invite to the assembly.",LI,40
+556,33.1.denDikken.62b.*.05,"I don't believe that any students, I will take to the conference.",LI,8
+557,33.1.denDikken.62b.*.06,"I don't think that any actors, I will take to the game.",LI,2
+558,33.1.denDikken.62b.*.07,"I don't believe that any children, I will take to the concert.",LI,6
+559,33.1.denDikken.62b.*.08,"I don't think that any musicians, I will take to the office.",LI,2
+561,33.1.denDikken.58a.*.02,What at no time did he touch?,LI,24
+563,33.1.denDikken.58a.*.04,How much time off in no month should you take?,LI,4
+566,33.1.denDikken.58a.*.07,What at no time were the patrons aware of?,LI,22
+577,33.1.denDikken.67.g.02,Who the hell asked who out?,LI,106
+581,33.1.denDikken.67.g.06,Who the hell brought who to the party?,LI,16
+584,33.1.denDikken.71a.*.01,Who is in love with who the hell?,LI,10
+586,33.1.denDikken.71a.*.03,Who kissed who the hell?,LI,24
+587,33.1.denDikken.71a.*.04,Who screamed at who the hell?,LI,104
+588,33.1.denDikken.71a.*.05,Who called who the hell?,LI,82
+590,33.1.denDikken.71a.*.07,Who hugged who the hell?,LI,84
+591,33.1.denDikken.71a.*.08,Who insulted who the hell?,LI,42
+593,33.1.denDikken.72a.g.02,The millionaire didn't leave the hospital a red cent.,LI,20
+594,33.1.denDikken.72a.g.03,Shelly didn't loan Mark a red cent.,LI,80
+595,33.1.denDikken.72a.g.04,The customer didn't pay the store a red cent.,LI,4
+601,33.1.denDikken.72b.*.02,The millionaire didn't leave every hospital a red cent.,LI,6
+602,33.1.denDikken.72b.*.03,Shelly didn't loan every business a red cent.,LI,2
+603,33.1.denDikken.72b.*.04,The customer didn't pay every store a red cent.,LI,10
+624,33.1.fox.65b.*.01,I told you that Bill when we met will come to the party.,LI,48
+625,33.1.fox.65b.*.02,I said that Sean at the meeting should organize the fundraiser.,LI,54
+627,33.1.fox.65b.*.04,I heard that Kelly from a friend cheated on her boyfriend.,LI,104
+631,33.1.fox.65b.*.08,I suggested that Laura when we dated should cut her hair.,LI,4
+640,33.1.fox.69a.*.01,John wants for everyone you do to have fun.,LI,42
+641,33.1.fox.69a.*.02,Dana hopes for everyone you do to succeed.,LI,32
+643,33.1.fox.69a.*.04,Melanie prefers for everyone you do to get a raise.,LI,6
+644,33.1.fox.69a.*.05,Kyle expects for everyone you do to be honest.,LI,18
+646,33.1.fox.69a.*.07,Ben is hopeful for everyone you do to attend.,LI,100
+647,33.1.fox.69a.*.08,Valerie is excited for everyone you do to graduate.,LI,14
+648,33.1.fox.69b.g.01,John wants for everyone to have fun that you do.,LI,8
+649,33.1.fox.69b.g.02,Dana hopes for everyone to succeed that you do.,LI,28
+652,33.1.fox.69b.g.05,Kyle expects for everyone to be honest that you do.,LI,86
+653,33.1.fox.69b.g.06,Sophia is anxious for everyone to arrive that you are.,LI,62
+654,33.1.fox.69b.g.07,Ben is hopeful for everyone to attend that you are.,LI,52
+655,33.1.fox.69b.g.08,Valerie is excited for everyone to graduate that you are.,LI,88
+656,33.2.bowers.13a.*.01,John believes to be sick.,LI,84
+660,33.2.bowers.13a.*.05,The governor declared to be innocent.,LI,14
+662,33.2.bowers.13a.*.07,Mike believes to be a genius.,LI,64
+674,33.2.bowers.31a1.g.03,There are likely to be students in the library.,LI,6
+690,33.2.bowers.31b1.*.03,There are likely students to be in the library.,LI,82
+693,33.2.bowers.31b1.*.06,There seem protesters to be on the campus.,LI,4
+695,33.2.bowers.31b1.*.08,There are likely snowboarders to be on the slope.,LI,24
+699,33.2.bowers.31c2.*.04,There might fossils seem to be several miles underground.,LI,20
+700,33.2.bowers.31c2.*.05,There might leaves appear to be in the yard.,LI,80
+701,33.2.bowers.31c2.*.06,There might ghosts appear to be in the library.,LI,108
+702,33.2.bowers.31c2.*.07,There might assignments appear to be in the drawer.,LI,32
+703,33.2.bowers.31c2.*.08,There might police officers appear to be on campus.,LI,22
+712,33.2.bowers.68b.*.01,The politician bribes easily to avoid the draft.,LI,2
+714,33.2.bowers.68b.*.03,The safe locks often to protect the jewels.,LI,26
+715,33.2.bowers.68b.*.04,The executive fires quickly to appease the shareholders.,LI,86
+718,33.2.bowers.68b.*.07,The monument constructs impressively to commemorate the victory.,LI,38
+728,33.2.bowers.69b.*.01,The bureaucrat bribes deliberately.,LI,90
+730,33.2.bowers.69b.*.03,The employee fires reluctantly.,LI,4
+731,33.2.bowers.69b.*.04,The patient examines carefully.,LI,102
+734,33.2.bowers.69b.*.07,The book writes truthfully.,LI,14
+736,33.2.bowers.7b.*.01,The ball perfectly rolled down the hill.,LI,44
+737,33.2.bowers.7b.*.02,John intimately spoke to Mary.,LI,20
+740,33.2.bowers.7b.*.05,It suddenly stormed.,LI,76
+741,33.2.bowers.7b.*.06,Sam thoroughly cleaned.,LI,62
+748,33.2.bowers.7b.g.05,It stormed suddenly.,LI,54
+749,33.2.bowers.7b.g.06,Sam cleaned thoroughly.,LI,24
+751,33.2.bowers.7b.g.08,The ice melted quickly on the table.,LI,30
+768,33.4.neeleman.100.*.01,Yesterday seemed that John left.,LI,14
+769,33.4.neeleman.100.*.02,Friday appeared that Maude went home early.,LI,84
+770,33.4.neeleman.100.*.03,Next week seems that Juan will be in town.,LI,92
+771,33.4.neeleman.100.*.04,Monday appears that Juanita was running late.,LI,88
+772,33.4.neeleman.100.*.05,Tomorrow seems that there will be a hurricane.,LI,10
+773,33.4.neeleman.100.*.06,Tonight appears that Marjorie is staying over.,LI,14
+774,33.4.neeleman.100.*.07,Last week seemed that everyone was calling in sick.,LI,34
+775,33.4.neeleman.100.*.08,Next week appears that the strikers will be back to work.,LI,22
+777,33.4.neeleman.100.g.02,It appeared that Friday Maude went home early.,LI,4
+779,33.4.neeleman.100.g.04,It appears that Monday Juanita was running late.,LI,6
+792,33.4.neeleman.18d.*.01,Deciding who to see that new movie next makes very happy.,LI,14
+796,33.4.neeleman.18d.*.05,Selecting who to play that new song at the concert makes feel important.,LI,104
+798,33.4.neeleman.18d.*.07,Picking who to wear that new suit in the morning makes late to work.,LI,2
+800,33.4.neeleman.24d.*.01,Anyone better leave town.,LI,2
+801,33.4.neeleman.24d.*.02,Anyone better play soccer.,LI,20
+802,33.4.neeleman.24d.*.03,Anyone better make dinner.,LI,50
+803,33.4.neeleman.24d.*.04,Anyone better come home.,LI,2
+804,33.4.neeleman.24d.*.05,Anyone better evacuate the building.,LI,14
+805,33.4.neeleman.24d.*.06,Anyone better run the marathon.,LI,52
+806,33.4.neeleman.24d.*.07,Anyone better fly the plane.,LI,100
+820,33.4.neeleman.35a.*.05,Who did Kelly wonder who Brian is taking to the prom?,LI,4
+823,33.4.neeleman.35a.*.08,What did Ethan wonder what Jack would say about the scandal?,LI,8
+834,33.4.neeleman.97a.g.03,Which car did you crash after buying?,LI,6
+835,33.4.neeleman.97a.g.04,Which coworker did George compliment before insulting?,LI,2
+840,33.4.neeleman.97b.*.01,Which book did you sleep before reading?,LI,8
+842,33.4.neeleman.97b.*.03,Which car did you worry after buying?,LI,8
+843,33.4.neeleman.97b.*.04,Which coworker did George yawn before insulting?,LI,64
+844,33.4.neeleman.97b.*.05,Which candidate did Nicole swim after voting for?,LI,4
+846,33.4.neeleman.97b.*.07,Which shirt did you laugh without trying on?,LI,74
+847,33.4.neeleman.97b.*.08,Which song did you nap without recognizing?,LI,94
+848,34.1.basilico.44a.?.01,Who did you see steal the wallet?,LI,2
+849,34.1.basilico.44a.?.02,Who did they see tag the wall?,LI,56
+850,34.1.basilico.44a.?.03,Who did she hear insult the manager?,LI,2
+851,34.1.basilico.44a.?.04,Who did we hear scream at the neighbors?,LI,98
+852,34.1.basilico.44a.?.05,Who did she see punch Alex?,LI,88
+853,34.1.basilico.44a.?.06,Who did I see hug Natalie?,LI,26
+854,34.1.basilico.44a.?.07,Who did they see take the cookie?,LI,10
+856,34.1.basilico.44b.*.01,Who was seen steal the wallet?,LI,30
+863,34.1.basilico.44b.*.08,Who was seen cut the wire?,LI,98
+865,34.1.basilico.62.*.02,There are fishermen proud.,LI,6
+866,34.1.basilico.62.*.03,There are books thick.,LI,104
+868,34.1.basilico.62.*.05,There are firemen brave.,LI,84
+869,34.1.basilico.62.*.06,There are programs difficult.,LI,66
+870,34.1.basilico.62.*.07,There are laptops heavy.,LI,94
+873,34.1.basilico.62.g.02,There are fisherman sick.,LI,6
+896,34.1.fox.14.*.01,What do you worry if the lawyer forgets at the office?,LI,16
+897,34.1.fox.14.*.02,What do you laugh if the heiress buys at the auction?,LI,12
+898,34.1.fox.14.*.03,What do you worry if the boss leaves in the car?,LI,16
+899,34.1.fox.14.*.04,What do you blush if the child prodigy submits to the art contest?,LI,104
+900,34.1.fox.14.*.05,What do you sneeze if the dog owner leaves open at night?,LI,106
+902,34.1.fox.14.*.07,What do you object if the janitor erases from the blackboard?,LI,14
+905,34.1.fox.14.g.02,What do you wish that the heiress bought at the auction?,LI,92
+909,34.1.fox.14.g.06,What do you complain that the neighbor turns on at night?,LI,72
+918,34.1.fox.19.g.07,"It appears that a one of the criminals will confess, but which criminal is still unknown.",LI,102
+934,34.1.fox.24.*.07,"It appears that a one of the criminals will confess, but which criminal it does is still unknown.",LI,100
+944,34.1.fox.27.g.01,"They said they heard about a Balkan language, but I don't know which Balkan language.",LI,44
+946,34.1.fox.27.g.03,"Steven said he read about a new hybrid car, but I don't know which car.",LI,4
+948,34.1.fox.27.g.05,"Melissa said she read about one of Shakespeare's plays, but I don't know which play.",LI,2
+951,34.1.fox.27.g.08,"Brandon said he requested one of the tutors, but I don't which tutor.",LI,10
+952,34.1.fox.28.*.01,"They said they heard about a Balkan language, but I don't know which Balkan language they did.",LI,6
+959,34.1.fox.28.*.08,"Brandon said he requested one of the tutors, but I don't which tutor he did.",LI,30
+969,34.1.phillips.3e.*.02,Each other hugged Matthew and Jennifer.,LI,2
+970,34.1.phillips.3e.*.03,Each other hurt Stephanie and Christopher.,LI,6
+971,34.1.phillips.3e.*.04,Each other saw Amber and William.,LI,82
+972,34.1.phillips.3e.*.05,Each other found Eric and Amy.,LI,84
+973,34.1.phillips.3e.*.06,Each other love Kelly and Aaron.,LI,4
+974,34.1.phillips.3e.*.07,Each other hate Richard and Christine.,LI,4
+975,34.1.phillips.3e.*.08,Each other surprised Shannon and Dustin.,LI,2
+977,34.1.phillips.59b.*.02,The first-time racers were defeated and the amateur racers by the professional racers.,LI,2
+978,34.1.phillips.59b.*.03,The volunteers were appreciated and the interns by the doctors.,LI,52
+980,34.1.phillips.59b.*.05,The poor were overlooked and the bankers by the politicians.,LI,36
+981,34.1.phillips.59b.*.06,The directors were impressed and the singers by the dancers.,LI,68
+983,34.1.phillips.59b.*.08,The employees were overworked and the executives by the managers.,LI,68
+1000,34.1.phillips.67d.*.01,I gave anything to nobody.,LI,70
+1002,34.1.phillips.67d.*.03,My boss gave any opportunities to no employees.,LI,76
+1003,34.1.phillips.67d.*.04,Monica gives any money to no strangers.,LI,6
+1004,34.1.phillips.67d.*.05,The trainer gives any treats to no dogs.,LI,60
+1005,34.1.phillips.67d.*.06,My parents give any donations to no charities.,LI,106
+1006,34.1.phillips.67d.*.07,Eloise gives any presents to no friends.,LI,52
+1007,34.1.phillips.67d.*.08,The government gives any help to no poor people.,LI,4
+1011,34.1.phillips.6b.*.04,Karen gave at breakfast time her friend a huge delicious plate of waffles.,LI,20
+1014,34.1.phillips.6b.*.07,Sabrina gave at breakfast time her elderly mother a beautiful new coffee mug.,LI,6
+1027,34.1.phillips.88b.*.04,"Allison forgot to practice her violin, and Carl did to finish his homework.",LI,2
+1029,34.1.phillips.88b.*.06,"Kelsey hoped to win the marathon, and Christian did to win the tennis tournament.",LI,2
+1031,34.1.phillips.88b.*.08,"Natalie refused to bike to work, and Gabrielle did to drive.",LI,2
+1052,34.1.phillips.93b.?*.05,Dwayne gave more charities money than Frieda did food.,LI,84
+1060,34.1.phillips.96a.*.05,"Kimberly wanted to give the charity something warm to wear, and give the charity she did a bundle of jackets.",LI,108
+1080,34.2.caponigro.13b.*.01,The flute was being shiny.,LI,8
+1081,34.2.caponigro.13b.*.02,The bracelet was being sparkly.,LI,82
+1082,34.2.caponigro.13b.*.03,The table was being heavy.,LI,94
+1083,34.2.caponigro.13b.*.04,The movie was being scary.,LI,10
+1084,34.2.caponigro.13b.*.05,The song was being catchy.,LI,12
+1085,34.2.caponigro.13b.*.06,The floor was being slippery.,LI,82
+1086,34.2.caponigro.13b.*.07,The popcorn was being buttery.,LI,8
+1087,34.2.caponigro.13b.*.08,The bed was being comfortable.,LI,70
+1089,34.2.panagiotidis.6.*.02,We speakers of English are more numerous than you of Japanese.,LI,8
+1091,34.2.panagiotidis.6.*.04,We graduates of college are just as unemployed as you of high school.,LI,84
+1092,34.2.panagiotidis.6.*.05,We majors in biology are just as smart as you of mathematics.,LI,2
+1093,34.2.panagiotidis.6.*.06,We drinkers of tea are just as hyper as you of coffee.,LI,58
+1094,34.2.panagiotidis.6.*.07,We users of PCs are just as competent as you of Macs.,LI,72
+1095,34.2.panagiotidis.6.*.08,We supporters of democrats are just as worried about the economy as you of republicans.,LI,66
+1098,34.2.panagiotidis.6.g.03,We citizens of California are tanner than you citizens of Maine.,LI,6
+1104,34.3.heycock.16.*.01,He was judge.,LI,94
+1105,34.3.heycock.16.*.02,She was winner.,LI,36
+1106,34.3.heycock.16.*.03,I was loser.,LI,100
+1109,34.3.heycock.16.*.06,I was coach.,LI,4
+1123,34.3.heycock.30c.?*.04,Salesman and client that were negotiating all the time had to be reassigned.,LI,30
+1125,34.3.heycock.30c.?*.06,Teacher and student that were constantly arguing had to be move to different classes.,LI,38
+1126,34.3.heycock.30c.?*.07,Maid and butler that were constantly gossiping had to be sent to different houses.,LI,6
+1127,34.3.heycock.30c.?*.08,Actor and actress that were constantly fighting had to be moved to different scenes.,LI,32
+1133,34.3.heycock.30c.g.06,The teacher and student that were constantly arguing had to be move to different classes.,LI,66
+1136,34.3.heycock.37b.??.01,Knife with the golden blade and fork with the silver handle go on the left.,LI,42
+1138,34.3.heycock.37b.??.03,Pencil with the blue eraser and binder with the black cover are in the top drawer.,LI,36
+1141,34.3.heycock.37b.??.06,Laptop with the silver case and ipod with the pink earbuds are in your suitcase.,LI,60
+1142,34.3.heycock.37b.??.07,Hula-hoop with green stripes and jump rope with orange handles are in the garage.,LI,2
+1143,34.3.heycock.37b.??.08,Hammer with the black handle and screwdriver with the square tip are in your toolbox.,LI,66
+1154,34.3.heycock.55a.*.03,Window is broken and door is open.,LI,12
+1155,34.3.heycock.55a.*.04,Peanut is sweet and pretzel is salty.,LI,42
+1170,34.3.heycock.66.*.03,This is cabinet.,LI,14
+1171,34.3.heycock.66.*.04,This is car.,LI,2
+1173,34.3.heycock.66.*.06,This is pen.,LI,2
+1174,34.3.heycock.66.*.07,This is shelf.,LI,4
+1175,34.3.heycock.66.*.08,This is computer.,LI,2
+1185,34.3.heycock.82a.*.02,The fork with the silver handle's tines are sharp.,LI,38
+1186,34.3.heycock.82a.*.03,The program that is sending robots to Mars's history is controversial.,LI,34
+1187,34.3.heycock.82a.*.04,The dinosaur with terrible teeth's roar was monstrous.,LI,10
+1188,34.3.heycock.82a.*.05,The restaurant that does n't train its staff's food is dangerous.,LI,74
+1189,34.3.heycock.82a.*.06,The bird that awakens before sunrise's noise is annoying.,LI,10
+1190,34.3.heycock.82a.*.07,The movie theater with the fantastic sound system's lobby was empty.,LI,2
+1191,34.3.heycock.82a.*.08,The woman with the thick accent's speech is difficult to understand.,LI,100
+1193,34.3.heycock.82a.g.02,The tines of the fork with the silver handle are sharp.,LI,4
+1196,34.3.heycock.82a.g.05,The food of the restaurant that does n't train its staff is dangerous.,LI,38
+1200,34.3.landau.32c.*.01,There expects to be a man in the garden.,LI,66
+1202,34.3.landau.32c.*.03,There desires to be a new deal in the works.,LI,84
+1203,34.3.landau.32c.*.04,There forgot to be a car waiting at the airport.,LI,80
+1204,34.3.landau.32c.*.05,There hoped to be a party for the new manager.,LI,16
+1206,34.3.landau.32c.*.07,There managed to be a bonus in my paycheck.,LI,4
+1207,34.3.landau.32c.*.08,There remembered to be a construction sign on the freeway.,LI,64
+1216,34.3.landau.39a.g.01,One interpreter tried to be assigned to every visiting diplomat.,LI,98
+1222,34.3.landau.39a.g.07,One dog attempted to fetch every stick.,LI,6
+1223,34.3.landau.39a.g.08,One athlete tried to win event.,LI,2
+1225,34.3.landau.39b.*.02,One actor each attempted to be the star of every scene.,LI,96
+1226,34.3.landau.39b.*.03,One protester each managed to be heard during every speech.,LI,100
+1227,34.3.landau.39b.*.04,One child each refused to complete every assignment.,LI,4
+1228,34.3.landau.39b.*.05,One soldier each refused to obey every order.,LI,14
+1229,34.3.landau.39b.*.06,One mechanic each managed to repair every car.,LI,74
+1230,34.3.landau.39b.*.07,One dog each attempted to fetch every stick.,LI,72
+1231,34.3.landau.39b.*.08,One athlete each tried to win each event.,LI,6
+1232,34.3.takano.10b.*.01,I bought any books only occasionally.,LI,22
+1233,34.3.takano.10b.*.02,Prof. Jones met with any students only rarely.,LI,106
+1234,34.3.takano.10b.*.03,The store sold any hardbacks only occasionally.,LI,82
+1235,34.3.takano.10b.*.04,Fritz wrote any stories only rarely.,LI,106
+1236,34.3.takano.10b.*.05,The postman delivers any letters only occasionally.,LI,2
+1237,34.3.takano.10b.*.06,The virtuoso practices any pieces only rarely.,LI,6
+1238,34.3.takano.10b.*.07,Thin people eat any snacks only occasionally.,LI,2
+1239,34.3.takano.10b.*.08,Most people clean any windows only rarely.,LI,10
+1240,34.3.takano.10b.g.01,I only occasionally bought any books.,LI,2
+1248,34.3.takano.9e.*.01,Anything has nobody done.,LI,106
+1251,34.3.takano.9e.*.04,Anything has nobody bought.,LI,90
+1252,34.3.takano.9e.*.05,Anything has nobody seen.,LI,12
+1254,34.3.takano.9e.*.07,Anything has nobody desired.,LI,2
+1264,34.4.boskovic.3a.*.01,It seemed at that time David had left.,LI,24
+1265,34.4.boskovic.3a.*.02,It seemed at that time Mark had quit.,LI,2
+1266,34.4.boskovic.3a.*.03,It seemed at that time Michelle had won.,LI,10
+1267,34.4.boskovic.3a.*.04,It seemed at that time Stacey had been hired.,LI,8
+1268,34.4.boskovic.3a.*.05,It seemed at that time Tom had moved.,LI,24
+1269,34.4.boskovic.3a.*.06,It seemed at that time Clara had been promoted.,LI,2
+1270,34.4.boskovic.3a.*.07,It seemed at that time Adam had been fired.,LI,2
+1271,34.4.boskovic.3a.*.08,It seemed at that time Robert had confessed.,LI,36
+1281,34.4.boskovic.3c.*.02,They believed and we thought Jamie would finish the assignment.,LI,6
+1282,34.4.boskovic.3c.*.03,They thought and we expected Charles would read his speech.,LI,108
+1283,34.4.boskovic.3c.*.04,They expected and we knew Courtney would ride the elephant.,LI,54
+1284,34.4.boskovic.3c.*.05,They knew and we saw Mark would skip work.,LI,80
+1285,34.4.boskovic.3c.*.06,They saw and we confirmed Andrea would present her artwork.,LI,54
+1286,34.4.boskovic.3c.*.07,They denied and we suspected Sean would buy the car.,LI,82
+1287,34.4.boskovic.3c.*.08,They affirmed but we denied Mary would tell the truth.,LI,72
+1289,34.4.boskovic.3d.*.02,Laurie believed Eric won the gold medal and Sally Eric won the silver medal.,LI,76
+1290,34.4.boskovic.3d.*.03,Ernie believed Jackie passed the test and Louie Jackie got an A.,LI,92
+1291,34.4.boskovic.3d.*.04,Donald believed Joe finished his homework and Dewey Joe took a nap.,LI,96
+1292,34.4.boskovic.3d.*.05,Sarah believed Daniel grew a few inches and Richard Daniel gained some weight.,LI,24
+1293,34.4.boskovic.3d.*.06,Raymond believed Amy practiced her music and Danielle Amy won a competition.,LI,58
+1294,34.4.boskovic.3d.*.07,Matt believed Ben read a book and Lilly Ben watched a movie.,LI,94
+1295,34.4.boskovic.3d.*.08,Mary believed Tommy drank his milk and Brandon Tommy ate the vegetables.,LI,2
+1296,34.4.boskovic.3e.*.01,"John likes Mary, Jane didn't believe.",LI,38
+1297,34.4.boskovic.3e.*.02,"Chris hates vegetables, Helen didn't believe.",LI,28
+1298,34.4.boskovic.3e.*.03,"Mike pushed the little girl, Bianca didn't believe.",LI,86
+1299,34.4.boskovic.3e.*.04,"Emma ate the whole cake, her mother didn't believe.",LI,58
+1302,34.4.boskovic.3e.*.07,"Wesley stole the shirt, his girlfriend didn't believe.",LI,42
+1303,34.4.boskovic.3e.*.08,"Addison bit the boy, Jena didn't believe.",LI,8
+1321,34.4.boskovic.4c.g.02,They believed and we thought that Jamie would finish the assignment.,LI,2
+1322,34.4.boskovic.4c.g.03,They thought and we expected that Charles would read his speech.,LI,70
+1323,34.4.boskovic.4c.g.04,They expected and we knew that Courtney would ride the elephant.,LI,10
+1325,34.4.boskovic.4c.g.06,They saw and we confirmed that Andrea would present her artwork.,LI,74
+1326,34.4.boskovic.4c.g.07,They denied and we suspected that Sean would buy the car.,LI,88
+1327,34.4.boskovic.4c.g.08,They affirmed but we denied that Mary would tell the truth.,LI,44
+1328,34.4.boskovic.4d.g.01,Mary believed that Peter finished school and Bill that Peter got a job.,LI,4
+1329,34.4.boskovic.4d.g.02,Laurie believed that Eric won the gold medal and Sally that Eric won the silver medal.,LI,106
+1330,34.4.boskovic.4d.g.03,Ernie believed that Jackie passed the test and Louie that Jackie got an A.,LI,92
+1331,34.4.boskovic.4d.g.04,Donald believed that Joe finished his homework and that Dewey Joe took a nap.,LI,10
+1333,34.4.boskovic.4d.g.06,Raymond believed that Amy practiced her music and Danielle that Amy won a competition.,LI,56
+1334,34.4.boskovic.4d.g.07,Matt believed that Ben read a book and Lilly that Ben watched a movie.,LI,8
+1335,34.4.boskovic.4d.g.08,Mary believed that Tommy drank his milk and Brandon that Tommy ate the vegetables.,LI,62
+1339,34.4.boskovic.4e.g.04,"That Emma ate the whole cake, her mother didn't believe.",LI,6
+1342,34.4.boskovic.4e.g.07,"That Wesley stole the shirt, his girlfriend didn't believe.",LI,12
+1344,34.4.boskovic.7a.??.01,What did they believe at that time that Peter fixed?,LI,84
+1352,34.4.boskovic.7c.g.01,"At that time, what did they believe that Peter fixed?",LI,4
+1361,34.4.haegeman.2a.*.02,This is the girl who I think that will babysit your child next Thursday.,LI,4
+1364,34.4.haegeman.2a.*.05,This is the student who I think that will copy from you during the exam.,LI,2
+1365,34.4.haegeman.2a.*.06,This is the doctor who I think that will cure your sister.,LI,14
+1366,34.4.haegeman.2a.*.07,This is the lawyer who I think that will represent your husband at trial.,LI,14
+1376,34.4.lasnik.10a.*.01,"Angela wondered how John managed to cook, but it's not clear what food.",LI,4
+1377,34.4.lasnik.10a.*.02,"Sarah wondered why Dan tried to drink, but it's not clear what beverage.",LI,58
+1378,34.4.lasnik.10a.*.03,"Eric wondered how Lisa learned to dance, but it's not clear what dance.",LI,2
+1379,34.4.lasnik.10a.*.04,"Matt wondered why Kelly hoped to win, but it's not clear what contest.",LI,58
+1380,34.4.lasnik.10a.*.05,"Sharon wondered why Amy hoped to read, but it's not clear what book.",LI,2
+1381,34.4.lasnik.10a.*.06,"Terry wondered how Cindy learned to swim, but it's not clear what stroke.",LI,2
+1382,34.4.lasnik.10a.*.07,"Mike wondered why Leslie tried to visit, but it's not clear what city.",LI,98
+1383,34.4.lasnik.10a.*.08,"Natalie wondered how William managed to pass, but it's not clear what class.",LI,56
+1384,34.4.lasnik.11a.g.01,"Angela wondered how John managed to cook a certain food, but it's not clear what food.",LI,40
+1385,34.4.lasnik.11a.g.02,"Sarah wondered why Dan tried to drink a certain beverage, but it's not clear what beverage.",LI,102
+1386,34.4.lasnik.11a.g.03,"Eric wondered how Lisa learned to dance a certain dance, but it's not clear what dance.",LI,4
+1387,34.4.lasnik.11a.g.04,"Matt wondered why Kelly hoped to win a certain contest, but it's not clear what contest.",LI,112
+1388,34.4.lasnik.11a.g.05,"Sharon wondered why Amy hoped to read a certain book, but it's not clear what book.",LI,68
+1389,34.4.lasnik.11a.g.06,"Terry wondered how Cindy learned to swim a certain stroke, but it's not clear what stroke.",LI,4
+1390,34.4.lasnik.11a.g.07,"Mike wondered why Leslie tried to visit a certain city, but it's not clear what city.",LI,66
+1391,34.4.lasnik.11a.g.08,"Natalie wondered how William managed to pass a certain class, but it's not clear what class.",LI,4
+1394,35.1.beck.12b.*.03,Who does he consider a picture of precious?,LI,2
+1395,35.1.beck.12b.*.04,Who do they consider a teacher of geeky?,LI,6
+1396,35.1.beck.12b.*.05,Who does Dr. Parker consider a criticism of unjustified?,LI,40
+1397,35.1.beck.12b.*.06,Who does the committee consider a discussion of unwarranted?,LI,56
+1398,35.1.beck.12b.*.07,Who do our leaders consider an associate of untrustworthy?,LI,34
+1399,35.1.beck.12b.*.08,Who does my brother want a picture of displayed?,LI,32
+1400,35.1.beck.12b.g.01,I believed a friend of Andy satisfied.,LI,78
+1403,35.1.beck.12b.g.04,They consider a teacher of Chris geeky.,LI,100
+1410,35.1.bhatt.14a.*.03,Greg is more than angry relieved.,LI,12
+1411,35.1.bhatt.14a.*.04,Tom is more than afraid worried.,LI,10
+1412,35.1.bhatt.14a.*.05,Kayla is more than insulted grateful.,LI,24
+1413,35.1.bhatt.14a.*.06,Sam is more than hurt disappointed.,LI,16
+1415,35.1.bhatt.14a.*.08,Charles is more than intimidated impressed.,LI,44
+1416,35.1.bhatt.14cf.g.01,Ralph is more tall than fit.,LI,2
+1424,35.1.bhatt.76b.*.01,I told you that Bill when we met will come to the party.,LI,48
+1425,35.1.bhatt.76b.*.02,I told you that Chris when we met will travel to France in December.,LI,72
+1426,35.1.bhatt.76b.*.03,I told you that Sarah when we met will attend college in the fall.,LI,68
+1427,35.1.bhatt.76b.*.04,I told you that Markus when we met will be moving in June.,LI,46
+1448,35.1.bhatt.94b.g.01,I expect that everyone will visit Mary that you do.,LI,18
+1449,35.1.bhatt.94b.g.02,I anticipate that everyone will see John that you do.,LI,28
+1451,35.1.bhatt.94b.g.04,I expect that everyone will praise Ricky that you do.,LI,12
+1452,35.1.bhatt.94b.g.05,I anticipate that everybody will visit Jack that you do.,LI,24
+1453,35.1.bhatt.94b.g.06,They anticipate that everybody will contact Fred that you do.,LI,8
+1454,35.1.bhatt.94b.g.07,He anticipates that everyone will meet Susie that you do.,LI,4
+1455,35.1.bhatt.94b.g.08,I anticipate that everybody will watch Melissa that you do.,LI,10
+1456,35.1.mcginnis.32b.*.01,I ran Mary.,LI,2
+1458,35.1.mcginnis.32b.*.03,Fred mowed Jamie the lawn.,LI,4
+1462,35.1.mcginnis.32b.*.07,Sarah washed her husband the dishes.,LI,80
+1483,35.1.mcginnis.63b.*.04,The news story worried Sally about the environment.,LI,10
+1496,35.2.hazout.6b.*.01,I find it irritating for usually this street to be closed.,LI,70
+1497,35.2.hazout.6b.*.02,I find it annoying for usually this bus to be late.,LI,2
+1498,35.2.hazout.6b.*.03,I find it upsetting for usually this theater to be sold out.,LI,92
+1499,35.2.hazout.6b.*.04,I find it gratifying for usually our team to be ranked first.,LI,90
+1500,35.2.hazout.6b.*.05,I find it disturbing for usually those children to be hungry.,LI,92
+1501,35.2.hazout.6b.*.06,I find it frustrating for usually this store to be overpriced.,LI,8
+1503,35.2.hazout.6b.*.08,I find it shocking for usually students to be cheaters.,LI,54
+1511,35.2.larson.44a.??.08,A smarter lawyer than my brother received the job.,LI,2
+1520,35.2.larson.44c.??.01,Max talked to as tall a man as his father.,LI,2
+1523,35.2.larson.44c.??.04,Charlie spoke to as joyful a woman as his mother.,LI,50
+1524,35.2.larson.44c.??.05,James whispered to as deaf a man as his grandfather.,LI,18
+1525,35.2.larson.44c.??.06,Anna read to as young a girl as her sister.,LI,90
+1526,35.2.larson.44c.??.07,Jessica shouted at as nervous a girl as her daughter.,LI,14
+1538,35.3.embick.13b.*.03,Bill drank the glass emptied.,LI,56
+1539,35.3.embick.13b.*.04,The heat turned the meat rotted.,LI,14
+1540,35.3.embick.13b.*.05,Nathan shook the towel dried.,LI,48
+1541,35.3.embick.13b.*.06,Lisa rolled the pancake flattened.,LI,4
+1567,35.3.hazout.63.*.08,It seems a snake to be in the garden.,LI,2
+1568,35.3.hazout.67a.g.01,There is likely to appear a man.,LI,80
+1569,35.3.hazout.67a.g.02,There is likely to arrive a letter.,LI,76
+1570,35.3.hazout.67a.g.03,There is likely to spread a disease around the world.,LI,88
+1571,35.3.hazout.67a.g.04,There is likely to depart a train at midnight.,LI,22
+1572,35.3.hazout.67a.g.05,There is likely to sit a table in the corner.,LI,2
+1573,35.3.hazout.67a.g.06,There is likely to live a snake in the garden.,LI,34
+1574,35.3.hazout.67a.g.07,There is likely to stand a bookshelf against the wall.,LI,100
+1575,35.3.hazout.67a.g.08,There is likely to run a river down the mountain.,LI,50
+1576,35.3.hazout.67c.*.01,There is likely a man to appear.,LI,2
+1577,35.3.hazout.67c.*.02,There is likely a letter to arrive.,LI,42
+1578,35.3.hazout.67c.*.03,There is likely a disease to spread around the world.,LI,70
+1579,35.3.hazout.67c.*.04,There is likely a train to depart at midnight.,LI,22
+1580,35.3.hazout.67c.*.05,There is likely a table to sit in the corner.,LI,14
+1582,35.3.hazout.67c.*.07,There is likely a bookshelf to stand against the wall.,LI,2
+1583,35.3.hazout.67c.*.08,There is likely a river to run down the mountain.,LI,64
+1585,35.3.hazout.75.*.02,It is unthinkable David to work hard.,LI,26
+1586,35.3.hazout.75.*.03,It is incomprehensible Ryan to leave late.,LI,30
+1589,35.3.hazout.75.*.06,It is unthinkable Lauren to speak loudly.,LI,18
+1591,35.3.hazout.75.*.08,It is unimaginable Rachel to cry often.,LI,16
+1596,35.3.hazout.75.g.05,It is unremarkable for Brittany to wake up late.,LI,6
+1616,35.3.sobin.3c.*.01,Some frogs and a fish is in the pond.,LI,36
+1617,35.3.sobin.3c.*.02,Some papers and a pen is in the drawer.,LI,108
+1618,35.3.sobin.3c.*.03,Some dogs and a cat is in the alley.,LI,8
+1619,35.3.sobin.3c.*.04,Some boys and a girl is in the car.,LI,50
+1620,35.3.sobin.3c.*.05,Some workers and a supervisor is in the office.,LI,14
+1622,35.3.sobin.3c.*.07,Some magazines and a book is in the storage box.,LI,96
+1623,35.3.sobin.3c.*.08,Some sweaters and a shirt is in the suitcase.,LI,34
+1632,36.4.denDikken.45.*.01,"That much the less you say, the smarter you will seem.",LI,38
+1633,36.4.denDikken.45.*.02,"That much the more you save, the better off you will be.",LI,48
+1635,36.4.denDikken.45.*.04,"That much the more you give, the happier you will be.",LI,88
+1637,36.4.denDikken.45.*.06,"That much the more you talk, the less you listen.",LI,98
+1638,36.4.denDikken.45.*.07,"That much the less you scratch it, the faster it will heal.",LI,14
+1648,37.1.boeckx.5.*.01,Sue asked what who bought.,LI,28
+1651,37.1.boeckx.5.*.04,Dale asked what who said.,LI,12
+1654,37.1.boeckx.5.*.07,Brain asked what who sent.,LI,4
+1655,37.1.boeckx.5.*.08,Melissa wondered what who hid.,LI,2
+1665,37.2.deVries.39a.*.02,You spoke to for whom I sang last week.,LI,2
+1668,37.2.deVries.39a.*.05,She visited for whom she baked the cake.,LI,6
+1679,37.2.deVries.39b.g.08,"They nominated Lillian, through whom we contacted them.",LI,2
+1691,37.2.Sigurdsson.3d.*.04,Us would have been selected.,LI,94
+1695,37.2.Sigurdsson.3d.*.08,Him would have been replaced.,LI,6
+1705,37.3.becker.26b.*.02,I tend drinking milkshakes.,LI,72
+1706,37.3.becker.26b.*.03,I appear lifting weights.,LI,92
+1707,37.3.becker.26b.*.04,I turned out collecting coins.,LI,28
+1708,37.3.becker.26b.*.05,I turned out running marathons.,LI,40
+1709,37.3.becker.26b.*.06,I appear playing tennis.,LI,88
+1710,37.3.becker.26b.*.07,I tend taking vacations.,LI,30
+1711,37.3.becker.26b.*.08,I seem missing work.,LI,96
+1720,37.3.becker.2b.*.01,There like to be storms at this time of year.,LI,8
+1721,37.3.becker.2b.*.02,There want to be teenagers at the birthday party.,LI,106
+1722,37.3.becker.2b.*.03,There hope to be new ideas in the report.,LI,4
+1723,37.3.becker.2b.*.04,There is eager to be a problem with this plan.,LI,22
+1724,37.3.becker.2b.*.05,There expect to be tools in the trunk.,LI,58
+1725,37.3.becker.2b.*.06,There are happy to be insects inside the wood.,LI,66
+1726,37.3.becker.2b.*.07,There try to be ambulances nearby.,LI,10
+1727,37.3.becker.2b.*.08,There is anxious to be cream in this sauce.,LI,84
+1731,37.3.becker.5a.g.04,She detests standing in the rain.,LI,2
+1737,37.3.becker.5b.*.02,I tend worrying about exams.,LI,10
+1738,37.3.becker.5b.*.03,You seem dancing a tango.,LI,82
+1740,37.3.becker.5b.*.05,He was unlikely getting a scholarship.,LI,10
+1741,37.3.becker.5b.*.06,They seem being left behind.,LI,18
+1743,37.3.becker.5b.*.08,They tend receiving large presents.,LI,4
+1748,37.4.nakajima.20e.*.05,The sun appeared a bright appearance this morning.,LI,16
+1755,37.4.nakajima.4a.g.04,"The apples fell just a short fall to the lower deck, and so were not too badly bruised.",LI,86
+1756,37.4.nakajima.4a.g.05,My daughter grew a year's growth in just three months.,LI,36
+1775,38.2.hornstein.3c.g.08,How little snow was there on the sidewalk?,LI,2
+1779,38.2.hornstein.4b.g.04,In which field played two teams?,LI,58
+1781,38.2.hornstein.4b.g.06,Around which track raced three drivers?,LI,14
+1782,38.2.hornstein.4b.g.07,Over which bridge drove six trucks?,LI,2
+1784,38.2.hornstein.4c.*.01,Into which room did walk three men?,LI,38
+1785,38.2.hornstein.4c.*.02,Down which street did drive two cars?,LI,24
+1786,38.2.hornstein.4c.*.03,Up which hill did run four horses?,LI,50
+1787,38.2.hornstein.4c.*.04,In which field did play two teams?,LI,110
+1788,38.2.hornstein.4c.*.05,Along which beach did stroll four couples?,LI,4
+1789,38.2.hornstein.4c.*.06,Around which track did race three drivers?,LI,96
+1790,38.2.hornstein.4c.*.07,Over which bridge did drive six trucks?,LI,68
+1791,38.2.hornstein.4c.*.08,Through which tunnel did race five sports cars?,LI,92
+1811,38.3.haddican.39.*.04,"The dentist said that I should start flossing, but the actual doing of so is burdensome.",LI,30
+1833,38.3.hirose.1b.*.02,On her parents for money Melanie relied.,LI,6
+1834,38.3.hirose.1b.*.03,To the neighbors about the noise the old man complained.,LI,76
+1835,38.3.hirose.1b.*.04,To the professor about my grade I talked.,LI,98
+1838,38.3.hirose.1b.*.07,With the generals about a new approach the President talked.,LI,10
+1839,38.3.hirose.1b.*.08,At your spouse on the phone you should n't yell.,LI,4
+1848,38.3.hirose.4a.*.01,It will take from three five days for him to recover.,LI,68
+1849,38.3.hirose.4a.*.02,It will take from two four hours for the plumber to fix the leak.,LI,86
+1850,38.3.hirose.4a.*.03,It will take from six eight weeks for your furniture to be delivered.,LI,16
+1852,38.3.hirose.4a.*.05,It will take from two three months for the medication to work.,LI,42
+1853,38.3.hirose.4a.*.06,It will take from 20 25 years for this roof to leak again.,LI,74
+1854,38.3.hirose.4a.*.07,It will take from three four hours for most girls to get ready for the prom.,LI,94
+1855,38.3.hirose.4a.*.08,It will take from five seven days for your cat to feel better.,LI,74
+1872,38.3.landau.38a.g.01,George kicked the boy the ball.,LI,98
+1876,38.3.landau.38a.g.05,Larry cooked her husband the meal.,LI,10
+1879,38.3.landau.38a.g.08,They brought Mr. Sheldrake the contract.,LI,34
+1880,38.3.landau.39a.*.01,Who did George kick the ball?,LI,66
+1881,38.3.landau.39a.*.02,Who did Fred bake coconut cookies?,LI,102
+1882,38.3.landau.39a.*.03,Who will you give the keys?,LI,62
+1883,38.3.landau.39a.*.04,Who should I send the letter?,LI,76
+1884,38.3.landau.39a.*.05,Who did Larry cook the meal?,LI,88
+1885,38.3.landau.39a.*.06,Who did Sebastian lend his history notes?,LI,46
+1886,38.3.landau.39a.*.07,Who did you buy the teddy bear?,LI,42
+1887,38.3.landau.39a.*.08,Who did they bring the contract?,LI,22
+1896,38.4.Boskovic.4.*.01,There seems a man to be in the garden.,LI,24
+1898,38.4.Boskovic.4.*.03,There seems a box to be on your doorstep.,LI,12
+1900,38.4.Boskovic.4.*.05,There seems a gun to be under his jacket.,LI,38
+1901,38.4.Boskovic.4.*.06,There appears a problem to be with the space shuttle.,LI,6
+1902,38.4.Boskovic.4.*.07,There seems a stain to be on my pants.,LI,56
+1903,38.4.Boskovic.4.*.08,There appears a scratch to be on this CD.,LI,8
+1913,38.4.kallulli.10b.*.02,The chamber flooded intentionally.,LI,16
+1914,38.4.kallulli.10b.*.03,The reward doubled deliberately.,LI,90
+1916,38.4.kallulli.10b.*.05,The pool emptied deliberately.,LI,20
+1918,38.4.kallulli.10b.*.07,The pond drained deliberately.,LI,2
+1925,38.4.kallulli.4b.*.06,Linda was hired from Theresa.,LI,36
+1927,38.4.kallulli.4b.*.08,John was kissed from his mother.,LI,4
+1936,38.4.kallulli.9a.g.01,The boat was sunk to collect the insurance.,LI,16
+1938,38.4.kallulli.9a.g.03,The reward was doubled to help catch the thief.,LI,2
+1940,38.4.kallulli.9a.g.05,The pool was emptied to find the ring.,LI,2
+1944,38.4.kallulli.9b.*.01,The boat sank to collect the insurance.,LI,38
+1945,38.4.kallulli.9b.*.02,The chamber flooded to drown the spiders.,LI,2
+1946,38.4.kallulli.9b.*.03,The reward doubled to help catch the thief.,LI,2
+1949,38.4.kallulli.9b.*.06,The balloon burst to punish the child.,LI,38
+1950,38.4.kallulli.9b.*.07,The pond drained to reduce mosquitoes.,LI,80
+1951,38.4.kallulli.9b.*.08,The specimen thawed to study it more closely.,LI,34
+1970,40.1.caponigro.23a.*.03,Dylan played tennis his doubles partner.,LI,100
+1971,40.1.caponigro.23a.*.04,Kelly attended the party her boyfriend.,LI,24
+1973,40.1.caponigro.23a.*.06,Mark went roller-skating his new girlfriend.,LI,28
+1975,40.1.caponigro.23a.*.08,Brittany bought the car her cousin.,LI,54
+1987,40.1.caponigro.25b.*.04,Tanya will laugh who Lisa chooses.,LI,12
+1988,40.1.caponigro.25b.*.05,Joe chuckled what Vince said.,LI,12
+1991,40.1.caponigro.25b.*.08,Eric stares who he envies.,LI,78
+2000,40.1.heck.5b.*.01,Sherry met a man very fond of whom she found herself.,LI,14
+2002,40.1.heck.5b.*.03,Carrie fired an assistant dependent on who she later found herself.,LI,6
+2004,40.1.heck.5b.*.05,Helen listened to the advice of a doctor usually skeptical of who she finds herself.,LI,38
+2006,40.1.heck.5b.*.07,Eric began a romantic relationship with an employee superior to who later found himself.,LI,88
+2024,40.1.stepanov.4b.*.01,What did who buy?,LI,94
+2025,40.1.stepanov.4b.*.02,What did who say?,LI,52
+2026,40.1.stepanov.4b.*.03,What did who eat?,LI,22
+2027,40.1.stepanov.4b.*.04,What did who steal?,LI,42
+2028,40.1.stepanov.4b.*.05,What did who bring?,LI,68
+2030,40.1.stepanov.4b.*.07,What did who sell?,LI,48
+2031,40.1.stepanov.4b.*.08,What did who wear?,LI,2
+2033,40.2.johnson.59b.*.02,She baked him for his birthday a cake.,LI,34
+2036,40.2.johnson.59b.*.05,He waved them at the end of the night goodbye.,LI,2
+2037,40.2.johnson.59b.*.06,They brought the animals after the zoo closed some food.,LI,48
+2039,40.2.johnson.59b.*.08,She denied him after the deal fell through the promotion.,LI,102
+2046,40.2.johnson.59b.g.07,We built them a new house after the earthquake.,LI,82
+2053,40.4.hicks.22.g.06,Maggie is difficult to compliment without embarrassing.,LI,4
+2059,40.4.hicks.23.*.04,That movie seems to be watched without anyone enjoying.,LI,6
+2068,41.1.Muller.14c.*.05,What was that the construction workers might uncover known by the bank robber?,LI,42
+2078,41.1.Muller.14c.g.07,That Martians kidnapped Marty was believed by no one.,LI,2
+2092,41.1.Muller.25b.g.05,You wonder which letter to Harry is in the mail.,LI,14
+2094,41.1.Muller.25b.g.07,You wonder which student of Mrs. Simpson is in trouble.,LI,88
+2096,41.2.Bruening.31a.*.01,At that battle were given the generals who lost hell.,LI,8
+2099,41.2.Bruening.31a.*.04,With that Supreme Court decision were denied minorities some of their rights.,LI,14
+2101,41.2.Bruening.31a.*.06,With that announcement were many citizens denied the opportunity to protest.,LI,92
+2103,41.2.Bruening.31a.*.08,At that point were given the counters that had just been used a quick wipe.,LI,48
+2123,41.2.Bruening.33a.g.04,The sick boy was baked a cake on his birthday.,LI,70
+2125,41.2.Bruening.33a.g.06,The departing guests were waved goodbye after the dinner party.,LI,4
+2127,41.2.Bruening.33a.g.08,The earthquake victims were built a new house during the cleanup.,LI,8
+2134,41.2.Bruening.36a.g.07,The horse that the jockey gave a slap to on the track refuses to co-operate.,LI,26
+2138,41.2.Bruening.36b.*.03,The people that the construction noise gave a headache this morning to are furious.,LI,36
+2140,41.2.Bruening.36b.*.05,The child that the clown gave the creeps at the party to is still upset.,LI,4
+2143,41.2.Bruening.36b.*.08,The counter that the waitress gave a quick wipe when we arrived to was still wet.,LI,78
+2152,41.2.Bruening.3b.*.01,The count gives the creeps to me.,LI,10
+2153,41.2.Bruening.3b.*.02,The lighting here gives a headache to me.,LI,88
+2154,41.2.Bruening.3b.*.03,The teacher denied his extra credit to George.,LI,36
+2155,41.2.Bruening.3b.*.04,The reporter envied my success to me.,LI,8
+2157,41.2.Bruening.3b.*.06,The IRS denied her refund to Lilly.,LI,54
+2158,41.2.Bruening.3b.*.07,The doctor envied her success to the nurse.,LI,6
+2177,41.3.Landau.10a.g.02,The club was entered wearing no shirt.,LI,26
+2178,41.3.Landau.10a.g.03,The bed was slept in wearing no clothes.,LI,20
+2182,41.3.Landau.10a.g.07,The car was driven while being tired.,LI,10
+2183,41.3.Landau.10a.g.08,The question was answered feeling nervous.,LI,2
+2185,41.3.Landau.10b.*.02,The club was entered shirtless.,LI,24
+2188,41.3.Landau.10b.*.05,The bottle was smashed drunk.,LI,2
+2199,41.3.Landau.24c.g.08,We are certain that Jason is afraid to meet tomorrow.,LI,2
+2203,41.3.Landau.25c.*.04,I informed Stan that I must wash the car together.,LI,26
+2208,41.3.Landau.27b.*.01,His wife kissed in front of the kids.,LI,56
+2211,41.3.Landau.27b.*.04,The manager met before the store opened.,LI,46
+2212,41.3.Landau.27b.*.05,The teacher spoke together after class.,LI,102
+2214,41.3.Landau.27b.*.07,His sister reunited at the family picnic.,LI,30
+2215,41.3.Landau.27b.*.08,Her cousin ate together at the cafe.,LI,8
+2218,41.3.Landau.27b.g.03,Her grandmother and grandfather embraced at the dinner.,LI,12
+2225,41.3.Landau.7b.*.02,Fred leased for his son to drive.,LI,18
+2226,41.3.Landau.7b.*.03,Jaden ordered for her sister to wear to the dance.,LI,18
+2227,41.3.Landau.7b.*.04,Shannon stole for her family to enjoy.,LI,4
+2228,41.3.Landau.7b.*.05,Mr. Parker rents for his mother to stay in.,LI,18
+2229,41.3.Landau.7b.*.06,Mr. Feldon saves for his family to use in an emergency.,LI,10
+2230,41.3.Landau.7b.*.07,Ms. Murphy wrote for her students to use.,LI,6
+2240,41.3.Rezac.3b1.g.01,There had hung over the fireplace all of the portraits by Picasso.,LI,46
+2241,41.3.Rezac.3b1.g.02,There had prevailed in the trial all of the defendants we were rooting for.,LI,68
+2242,41.3.Rezac.3b1.g.03,There had loomed over us all of the projects we had been putting off.,LI,68
+2243,41.3.Rezac.3b1.g.04,There had lived across the street all of the kids who were vandalizing our yard.,LI,82
+2246,41.3.Rezac.3b1.g.07,There have accumulated in the basement all of the trophies Trevor has won playing sports.,LI,100
+2248,41.3.Rezac.3b2.*.01,There had all hung over the fireplace the portraits by Picasso.,LI,94
+2249,41.3.Rezac.3b2.*.02,There had all prevailed in the trial the defendants we were rooting for.,LI,2
+2250,41.3.Rezac.3b2.*.03,There had all loomed over us the projects we had been putting off.,LI,52
+2252,41.3.Rezac.3b2.*.05,There had all emerged from the darkness the raccoons Jamie had seen earlier.,LI,18
+2253,41.3.Rezac.3b2.*.06,There had all stood in the corner the grandfather clocks Maria had collected over the years.,LI,20
+2254,41.3.Rezac.3b2.*.07,There have all accumulated in the basement the trophies Trevor has won playing sports.,LI,6
+2255,41.3.Rezac.3b2.*.08,There have all arisen in these negotiations the issues the lawyers warned us about.,LI,8
+2256,41.3.Vicente.4a1.g.01,She plays the guitar and Betsy the harmonica.,LI,4
+2257,41.3.Vicente.4a1.g.02,Mike prefers tennis and Jon baseball.,LI,6
+2259,41.3.Vicente.4a1.g.04,Dennis loves math and Steve science.,LI,30
+2260,41.3.Vicente.4a1.g.05,Carl collects stamps and Ryan coins.,LI,68
+2262,41.3.Vicente.4a1.g.07,Tracey bought a van and Tom a truck.,LI,40
+2268,41.3.Vicente.4a3.*.05,Carl collects stamps because Ryan coins.,LI,110
+2269,41.3.Vicente.4a3.*.06,Oliver wants to be a lawyer because Oscar a doctor.,LI,2
+2272,41.3.Vicente.4a6.*.01,Sandy plays the guitar better than Betsy the harmonica.,LI,4
+2273,41.3.Vicente.4a6.*.02,Arthur cooked the lasagna better than Adam the pasta.,LI,78
+2274,41.3.Vicente.4a6.*.03,Emma draws dogs better than Sophia dinosaurs.,LI,84
+2275,41.3.Vicente.4a6.*.04,Joel devoured the pie more voraciously than Mark the cake.,LI,88
+2277,41.3.Vicente.4a6.*.06,Alex read the magazine more meticulously than Ronald the textbook.,LI,58
+2278,41.3.Vicente.4a6.*.07,Amanda hurled the water balloon more forcefully than Irene the baseball.,LI,36
+2289,41.3.Vicente.5a.*.02,"Rich plays the guitar, and Sandy thinks that Bobby the piano.",LI,42
+2290,41.3.Vicente.5a.*.03,"The girls made sandwiches, and I believe that the boys hot dogs.",LI,98
+2295,41.3.Vicente.5a.*.08,"Ricardo likes soup, and he knows that Juan salad.",LI,88
+2304,41.3.Vicente.8a.*.01,"Read things, Mike did quickly.",LI,18
+2306,41.3.Vicente.8a.*.03,"Steal things, the thief did sneakily.",LI,86
+2309,41.3.Vicente.8a.*.06,"Jump on things, the youngster did excitedly.",LI,104
+2310,41.3.Vicente.8a.*.07,"Frighten people, the clown did willingly.",LI,14
+2311,41.3.Vicente.8a.*.08,"Threaten students, the bully did triumphantly.",LI,2
+2319,41.3.Vicente.8a.g.08,The bully threatened students triumphantly.,LI,60
+2323,41.3.Vicente.8d.*.04,"Promise to wash, Neal did the car.",LI,2
+2325,41.3.Vicente.8d.*.06,"Learn to repair, Lisa did computers.",LI,6
+2327,41.3.Vicente.8d.*.08,"Manage to pass, Tim did his exam.",LI,22
+2337,41.4.Bruening.9b.*.02,Who do you consider supporters of beneath our notice?,LI,6
+2338,41.4.Bruening.9b.*.03,Who did they find a parent of guilty?,LI,4
+2339,41.4.Bruening.9b.*.04,Who did the executives appoint a friend of chairman of the board?,LI,84
+2340,41.4.Bruening.9b.*.05,Who did the board deem children of unworthy to attend this school?,LI,40
+2343,41.4.Bruening.9b.*.08,Who did officials proclaim an associate of the winner?,LI,72
+2345,41.4.Bruening.9c.g.02,Who did you send supporters of to trial?,LI,2
+2346,41.4.Bruening.9c.g.03,Who did they send a parent of to an unpleasant meeting?,LI,20
+2347,41.4.Bruening.9c.g.04,Who did the executives appoint a friend of to the board?,LI,82
+2348,41.4.Bruening.9c.g.05,Who did the coach trade an enemy of to another team?,LI,20
+2349,41.4.Bruening.9c.g.06,Who did the principal assign children of to a different teacher?,LI,90
+2350,41.4.Bruening.9c.g.07,Who did the frat boys introduce a daughter of to their pledges?,LI,2
+2351,41.4.Bruening.9c.g.08,Who did officials dispatch an associate of to the embassy?,LI,54
+2352,41.4.Haegeman.18a.*.01,Bill asked if such books John only reads at home.,LI,54
+2353,41.4.Haegeman.18a.*.02,Chris knows whether this book Candice read.,LI,32
+2354,41.4.Haegeman.18a.*.03,Leslie wonders whether these clothes Harold will wash.,LI,2
+2355,41.4.Haegeman.18a.*.04,Judah inquired whether this jersey he can keep.,LI,2
+2356,41.4.Haegeman.18a.*.05,Shelly is uncertain whether the dishes Edgar will wash.,LI,88
+2357,41.4.Haegeman.18a.*.06,Mindy asked if my history notes she could borrow.,LI,6
+2358,41.4.Haegeman.18a.*.07,Jessie wonders whether the big solo Rachel will sing.,LI,48
+2359,41.4.Haegeman.18a.*.08,Sam inquired if the new Lexus he could test drive.,LI,2
+2360,41.4.Haegeman.18a.g.01,Bill knows that such books John only reads at home.,LI,34
+2361,41.4.Haegeman.18a.g.02,Chris knows that this book Candice read.,LI,90
+2363,41.4.Haegeman.18a.g.04,Judah confirmed that this jersey he can keep.,LI,86
+2365,41.4.Haegeman.18a.g.06,Mindy was confident that my history notes she could borrow.,LI,8
+2366,41.4.Haegeman.18a.g.07,Jessie knows that the big solo Rachel will sing.,LI,96
+2367,41.4.Haegeman.18a.g.08,Sam discovered that the new Lexus he could test drive.,LI,86
+2368,41.4.Haegeman.22d.*.01,"If frankly he's unable to cope, we'll have to replace him.",LI,80
+2388,41.4.Haegeman.4a.*.05,"When this exam we started to take this morning, it didn't look so long.",LI,32
+2395,41.4.Haegeman.4c.g.04,"When an hour ago they started to arrange these books, I thought they would tidy the rest of the room.",LI,2
+2396,41.4.Haegeman.4c.g.05,"When this morning we started to take this exam, it didn't look so long.",LI,80
+2397,41.4.Haegeman.4c.g.06,"When yesterday Marnie started to present that report, I thought we were in for a lot of surprises.",LI,82
+2408,ch10.107b.*.01,What is a program about on channel 4 tonight?,Adger,26
+2410,ch10.107b.*.03,Who is a card from in the mailbox?,Adger,12
+2411,ch10.107b.*.04,What is a song about on the radio?,Adger,4
+2412,ch10.107b.*.05,What is a documentary about on the television?,Adger,86
+2413,ch10.107b.*.06,Who is an email from in your inbox?,Adger,102
+2414,ch10.107b.*.07,Who is a picture of on the mantle?,Adger,96
+2415,ch10.107b.*.08,What is a coupon for on the counter?,Adger,34
+2425,ch10.108b.g.02,Who is there a gift from on the table?,Adger,4
+2426,ch10.108b.g.03,Who is there a card from in the mailbox?,Adger,6
+2428,ch10.108b.g.05,What is there a documentary about on the television?,Adger,50
+2429,ch10.108b.g.06,Who is there an email from in your inbox?,Adger,70
+2431,ch10.108b.g.08,What is there a coupon for on the counter?,Adger,82
+2432,ch10.116.g.01,I worried after the lawyer forgot his briefcase at the office.,Adger,90
+2434,ch10.116.g.03,I worried after the boss left her keys in the car.,Adger,94
+2453,ch10.118.g.06,I notice if the neighbor turns the air conditioning on at night.,Adger,96
+2454,ch10.118.g.07,I object if the janitor erases the equation from the blackboard.,Adger,56
+2456,ch10.119.*.01,What did you worry after the lawyer forgot at the office?,Adger,22
+2458,ch10.119.*.03,What did you worry after the boss left in the car?,Adger,4
+2459,ch10.119.*.04,What did you blush while the child prodigy submitted to the art contest?,Adger,24
+2460,ch10.119.*.05,What did you sneeze after the dog owner left open at night?,Adger,24
+2461,ch10.119.*.06,What did you freeze after the neighbor turned on at night?,Adger,4
+2464,ch10.120.*.01,What did you worry because the lawyer forgot at the office?,Adger,102
+2465,ch10.120.*.02,What did you laugh because the heiress bought at the auction?,Adger,2
+2466,ch10.120.*.03,What did you worry because the boss left in the car?,Adger,42
+2467,ch10.120.*.04,What did you blush because the child prodigy submitted to the art contest?,Adger,6
+2472,ch10.121.*.01,What do you worry if the lawyer forgets at the office?,Adger,16
+2473,ch10.121.*.02,What do you laugh if the heiress buys at the auction?,Adger,12
+2474,ch10.121.*.03,What do you worry if the boss leaves in the car?,Adger,16
+2475,ch10.121.*.04,What do you blush if the child prodigy submits to the art contest?,Adger,104
+2476,ch10.121.*.05,What do you sneeze if the dog owner leaves open at night?,Adger,106
+2478,ch10.121.*.07,What do you object if the janitor erases from the blackboard?,Adger,14
+2486,ch10.55.g.07,I wondered who asked who to the prom?,Adger,10
+2487,ch10.55.g.08,I asked who studied what in school?,Adger,2
+2488,ch10.56.*.01,I asked who who poisoned?,Adger,92
+2489,ch10.56.*.02,I wondered what who bought?,Adger,18
+2490,ch10.56.*.03,I asked what who read?,Adger,14
+2491,ch10.56.*.04,I wondered who who helped?,Adger,112
+2493,ch10.56.*.06,I asked what who cooked for breakfast?,Adger,86
+2495,ch10.56.*.08,I asked what who studied in school?,Adger,32
+2496,ch10.58.*.01,Who did you ask who poisoned?,Adger,40
+2498,ch10.58.*.03,What did you ask who read?,Adger,14
+2501,ch10.58.*.06,What did you ask who cooked for breakfast?,Adger,104
+2503,ch10.58.*.08,What did you ask who studied in school?,Adger,108
+2504,ch10.69.g.01,I believed the claim that Philip would visit the city of Athens.,Adger,12
+2515,ch10.70.*.04,Which room did you make the argument that Rebecca should clean?,Adger,102
+2517,ch10.70.*.06,Which prescription did you make the prediction that Josh would refill?,Adger,80
+2518,ch10.70.*.07,Which car did you regret the fact that Bob rented?,Adger,4
+2519,ch10.70.*.08,Which pizza did you make the claim that Amy stole?,Adger,28
+2526,ch10.71.g.07,John bought two tickes to Ryan's play about American politics.,Adger,40
+2527,ch10.71.g.08,Denise easily won NPR's debate about tax reform.,Adger,10
+2528,ch10.72.*.01,What did Peter listen to Darren's speech about?,Adger,2
+2530,ch10.72.*.03,What did Kelly watch CNN's TV show about?,Adger,2
+2531,ch10.72.*.04,What did Nina attend Hilary's fundraiser for?,Adger,56
+2533,ch10.72.*.06,What couldn't Sam stop laughing at Dean's joke about?,Adger,22
+2534,ch10.72.*.07,What did John buy two tickets to Ryan's play about?,Adger,82
+2544,ch10.74.*.01,What was Penny interested in Philip's description of?,Adger,50
+2545,ch10.74.*.02,What was Victor dismayed by Lou's destruction of?,Adger,40
+2546,ch10.74.*.03,What was Alice unnerved by Joe's resentment of?,Adger,46
+2547,ch10.74.*.04,What was Nicole impressed by Lilly's analysis of?,Adger,84
+2548,ch10.74.*.05,What was Gillian hurt by Ivan's investigation of?,Adger,4
+2549,ch10.74.*.06,What was Tina impressed by Mark's discussion of?,Adger,92
+2550,ch10.74.*.07,What was Gary worried about Evelyn's lack of?,Adger,40
+2551,ch10.74.*.08,What was Linda disappointed by Shelly's rejection of?,Adger,100
+2557,ch10.83.*.06,What couldn't Sam stop laughing at those jokes about?,Adger,24
+2558,ch10.83.*.07,What did John buy two tickets to those plays about?,Adger,66
+2559,ch10.83.*.08,What did Denise easily win those debates about?,Adger,46
+2560,ch10.84-86.g.01,What did Peter listen to a speech about?,Adger,4
+2563,ch10.84-86.g.04,What did Nina attend a fundraiser for?,Adger,4
+2565,ch10.84-86.g.06,What couldn't Sam stop laughing at a joke about?,Adger,12
+2566,ch10.84-86.g.07,What did John buy two tickets to a play about?,Adger,70
+2567,ch10.84-86.g.08,What did Denise easily win a debate about?,Adger,100
+2570,ch10.90.g.03,That Derek will win the lottery is possible.,Adger,72
+2573,ch10.90.g.06,That Helen will travel to France is possible.,Adger,44
+2609,"ch10.95,97.*.02",What did that Melanie likes prove to be her undoing?,Adger,96
+2612,"ch10.95,97.*.05",What is that William hates likely to be relevant for his biography?,Adger,58
+2614,"ch10.95,97.*.07",What did that Rebecca preferred prove to be a problem for Ryan?,Adger,54
+2615,"ch10.95,97.*.08",What is that Clarence dislikes certain to be relevant for his confirmation hearing?,Adger,94
+2634,ch2.03.*.03,The man chuckle.,Adger,10
+2635,ch2.03.*.04,The child wail.,Adger,2
+2637,ch2.03.*.06,The flower bloom.,Adger,78
+2638,ch2.03.*.07,The woman laugh.,Adger,22
+2639,ch2.03.*.08,The ox sleep.,Adger,92
+2640,ch2.04.*.01,The pigs grunts.,Adger,56
+2641,ch2.04.*.02,The bears snuffles.,Adger,2
+2642,ch2.04.*.03,The men chuckles.,Adger,10
+2643,ch2.04.*.04,The children wails.,Adger,98
+2644,ch2.04.*.05,The dogs barks.,Adger,40
+2645,ch2.04.*.06,The flowers blooms.,Adger,70
+2648,ch2.53.*.01,The scissors is lost.,Adger,44
+2649,ch2.53.*.02,The pants is dirty.,Adger,16
+2650,ch2.53.*.03,The shorts is clean.,Adger,92
+2651,ch2.53.*.04,The sunglasses is scratched.,Adger,86
+2653,ch2.53.*.06,The tweezers is broken.,Adger,100
+2655,ch2.53.*.08,The tongs is silver.,Adger,70
+2666,ch2.68.g.03,They showed him to be successful.,Adger,94
+2667,ch2.68.g.04,Everyone assumed her to be honest.,Adger,4
+2669,ch2.68.g.06,Susan proved her to be guilty.,Adger,10
+2671,ch2.68.g.08,Brian showed her to be shallow.,Adger,4
+2679,ch2.69.g.08,Brian showed she was shallow.,Adger,10
+2680,ch2.70.*.01,We all thought he to be unhappy.,Adger,30
+2681,ch2.70.*.02,John believed she to be clever.,Adger,68
+2683,ch2.70.*.04,Everyone assumed she to be honest.,Adger,22
+2684,ch2.70.*.05,Mary found he to be thoughtful.,Adger,2
+2685,ch2.70.*.06,Susan proved she to be guilty.,Adger,6
+2686,ch2.70.*.07,Patty believed he to be trustworthy.,Adger,92
+2690,ch2.71.*.03,They showed him was successful.,Adger,2
+2705,ch2.81b.*.02,The pig grunteds.,Adger,2
+2706,ch2.81b.*.03,The man chuckleds.,Adger,30
+2707,ch2.81b.*.04,The child waileds.,Adger,86
+2709,ch2.81b.*.06,The flower bloomeds.,Adger,104
+2710,ch2.81b.*.07,The woman laugheds.,Adger,54
+2711,ch2.81b.*.08,The ox slepts.,Adger,2
+2712,ch3.112.*.01,Andy demonized old.,Adger,4
+2714,ch3.112.*.03,Stanley controls friendly.,Adger,76
+2716,ch3.112.*.05,Peter convinced young.,Adger,90
+2718,ch3.112.*.07,James bought serious.,Adger,2
+2719,ch3.112.*.08,Denise sent smooth.,Adger,2
+2721,ch3.113.*.02,April put a book during the lecture.,Adger,68
+2730,ch3.115.g.03,Jenny yelled the cheer.,Adger,4
+2736,ch3.116.g.01,Genie chanted that she was tired.,Adger,4
+2737,ch3.116.g.02,William read that he won the scholarship.,Adger,24
+2738,ch3.116.g.03,Jenny yelled that she was angry.,Adger,14
+2739,ch3.116.g.04,Tim repeated that he wanted to leave.,Adger,62
+2741,ch3.116.g.06,Penny muttered that she was annoyed.,Adger,28
+2744,ch3.117.*.01,Genie chanted the mirror.,Adger,28
+2751,ch3.117.*.08,Annie disclosed the clouds.,Adger,10
+2752,ch3.118-120.*.01,The bookcase ran.,Adger,102
+2753,ch3.118-120.*.02,The airport panted.,Adger,2
+2754,ch3.118-120.*.03,The fig chortled.,Adger,6
+2755,ch3.118-120.*.04,The mountain slept.,Adger,36
+2757,ch3.118-120.*.06,The flower snored.,Adger,2
+2764,ch3.118-120.g.05,The professor thought.,Adger,88
+2792,ch3.148.*.01,Julie became fond.,Adger,58
+2793,ch3.148.*.02,Gary became fraught.,Adger,70
+2794,ch3.148.*.03,Cindy became devoid.,Adger,24
+2797,ch3.148.*.06,Sam became dear.,Adger,64
+2811,ch3.15.g.04,"Very carefully, Anthony read in the library.",Adger,2
+2813,ch3.15.g.06,"Fairly slowly, Jack walked at the gym.",Adger,2
+2816,ch3.152.g.01,What Julie became was fond of the book.,Adger,2
+2825,ch3.153.*.02,What Gary did with terror was become fraught.,Adger,48
+2829,ch3.153.*.06,What Sam did to his wife was become dear.,Adger,4
+2831,ch3.153.*.08,What Todd did in his beliefs was become zealous.,Adger,12
+2855,ch3.18.g.08,The engaging professor lectured.,Adger,2
+2858,ch3.19.*.03,Dog the happy barked.,Adger,4
+2882,ch3.34.*.03,It's stopped suddenly that Bill and Ted.,Adger,4
+2884,ch3.34.*.05,It's whispered secretly that Jessica and Glen.,Adger,16
+2906,ch3.52.*.03,Jimmy is teachers.,Adger,4
+2908,ch3.52.*.05,Frank is doctors.,Adger,4
+2938,ch3.63.*.03,Jimmy is those teachers.,Adger,2
+2939,ch3.63.*.04,Jessica is those students.,Adger,4
+2941,ch3.63.*.06,Sarah is those kids.,Adger,4
+2942,ch3.63.*.07,Jack is those patients.,Adger,10
+2945,ch3.64.*.02,Margaret is the short boys.,Adger,36
+2946,ch3.64.*.03,Jimmy is the mean teachers.,Adger,72
+2947,ch3.64.*.04,Jessica is the lazy students.,Adger,50
+2948,ch3.64.*.05,Frank is the experienced doctors.,Adger,100
+2950,ch3.64.*.07,Jack is the suffering patients.,Adger,106
+2951,ch3.64.*.08,Anna is the stray cats.,Adger,26
+2954,ch3.65.*.03,Jimmy is some mean teachers who give pop quizzes.,Adger,4
+2955,ch3.65.*.04,Jessica is some lazy students who skip class.,Adger,2
+2959,ch3.65.*.08,Anna is some stray cats that meow loudly.,Adger,38
+2968,ch3.74.*.01,Owners of a pig loves to eat truffles.,Adger,36
+2969,ch3.74.*.02,Friends of a girl tries to tease boys.,Adger,96
+2970,ch3.74.*.03,Parents of a student wants to annoy teachers.,Adger,94
+2971,ch3.74.*.04,Spouses of a professor hopes to trick students.,Adger,84
+2972,ch3.74.*.05,Administraters of a hospital needs to hire doctors.,Adger,86
+2973,ch3.74.*.06,Managers of a tutor tries to help kids.,Adger,46
+2974,ch3.74.*.07,Assistants of a nurse promises to comfort patients.,Adger,8
+2978,ch3.77.g.03,It hailed.,Adger,28
+2979,ch3.77.g.04,It stormed.,Adger,50
+2980,ch3.77.g.05,It stormed.,Adger,50
+2981,ch3.77.g.06,It hailed.,Adger,28
+2985,ch3.79.*.02,The day snowed.,Adger,8
+2986,ch3.79.*.03,The night hailed.,Adger,16
+2989,ch3.79.*.06,The night hailed.,Adger,16
+2990,ch3.79.*.07,The day snowed.,Adger,8
+2994,ch3.92-94.*.03,Stanley controls.,Adger,24
+2995,ch3.92-94.*.04,Susan threw.,Adger,104
+2997,ch3.92-94.*.06,Leslie attempted.,Adger,98
+2998,ch3.92-94.*.07,James bought.,Adger,2
+2999,ch3.92-94.*.08,Denise sent.,Adger,70
+3004,ch3.92-94.g.05,Peter convinced the judge.,Adger,10
+3011,ch4.22d.*.04,Pass the class easily may not be possible.,Adger,92
+3024,ch4.37.g.01,I shaved myself.,Adger,78
+3028,ch4.37.g.05,I bathed myself.,Adger,90
+3042,ch4.44.g.03,The policeman Tania called arrived.,Adger,2
+3048,ch4.45.*.01,The man I saw shaved myself.,Adger,8
+3049,ch4.45.*.02,The actress Bob interviewed dressed himself.,Adger,2
+3050,ch4.45.*.03,The policeman Tania called fed herself.,Adger,110
+3051,ch4.45.*.04,The doctor they saw praised themselves.,Adger,78
+3052,ch4.45.*.05,The teacher I feared bathed myself.,Adger,100
+3054,ch4.45.*.07,The mailman Rebecca insulted quesioned herself.,Adger,64
+3055,ch4.45.*.08,The nurse they admired drove themselves.,Adger,36
+3061,ch4.68a.*.06,Cheryl mailed to Laura it.,Adger,8
+3073,ch4.69b-70b.g.02,Madeleine planned to catch the sardines and catch the sardines she did.,Adger,2
+3076,ch4.69b-70b.g.05,Paul planned to buy a car and buy a car he did.,Adger,4
+3086,ch4.69b.g.07,Brian kicked it to Ben.,Adger,12
+3088,ch4.71.g.01,Benjamin said he would give the cloak to Lee and give the cloak to Lee he did.,Adger,20
+3090,ch4.71.g.03,Tom thought he would send the letter to Bob and send the letter to Bob he did.,Adger,12
+3091,ch4.71.g.04,Sally said she would take the ball from Tammy and take the ball from Tammy she did.,Adger,10
+3092,ch4.71.g.05,Paul planned to accept the gift from Clark and accept the gift from Clark he did.,Adger,4
+3093,ch4.71.g.06,Mona promised to mail the letter to Laura and mail the letter to Laura she did.,Adger,10
+3094,ch4.71.g.07,Francis thought he would kick the ball to Ben and kick the ball to Ben he did.,Adger,8
+3095,ch4.71.g.08,Tania said she would throw the frisbee to Kylie and throw the frisbee to Kylie she did.,Adger,14
+3096,ch4.72.*.01,Benjamin said he would give the cloak to Lee and give the cloak he did to Lee.,Adger,98
+3098,ch4.72.*.03,Tom thought he would send the letter to Bob and send the letter he did to Bob.,Adger,86
+3099,ch4.72.*.04,Sally said she would take the ball from Tammy and take the ball she did from Tammy.,Adger,2
+3101,ch4.72.*.06,Mona promised to mail the letter to Laura and mail the letter she did to Laura.,Adger,26
+3102,ch4.72.*.07,Francis thought he would kick the ball to Ben and kick the ball he did to Ben.,Adger,42
+3103,ch4.72.*.08,Tania said she would throw the frisbee to Kylie and throw the frisbee she did to Kylie.,Adger,4
+3113,ch5.13-14.*.02,Lisa might can pick up the dry cleaning.,Adger,8
+3114,ch5.13-14.*.03,Alex may will come to the party tomorrow.,Adger,94
+3115,ch5.13-14.*.04,Martin might should go to the dentist.,Adger,58
+3116,ch5.13-14.*.05,Leslie may could miss school today.,Adger,36
+3117,ch5.13-14.*.06,Don might would drive you home.,Adger,42
+3119,ch5.13-14.*.08,Sean must should apologize for his behavior.,Adger,34
+3152,ch5.140.*.01,Ryan never has flown an airplane.,Adger,110
+3153,ch5.140.*.02,Terry never has driven a car.,Adger,102
+3154,ch5.140.*.03,Sandra never has read a book.,Adger,82
+3155,ch5.140.*.04,Veronica never has eaten a pie.,Adger,38
+3156,ch5.140.*.05,Matt never has cleaned his room.,Adger,64
+3157,ch5.140.*.06,Ron never has stolen money.,Adger,104
+3158,ch5.140.*.07,Donna never has attended a party.,Adger,88
+3159,ch5.140.*.08,Eve never has bought a watch.,Adger,64
+3176,ch5.146.g.01,Jason didn't arrive.,Adger,2
+3184,ch5.147-148.*.01,Jason didn't arrived.,Adger,2
+3185,ch5.147-148.*.02,Marty didn't returned home.,Adger,102
+3186,ch5.147-148.*.03,Jessica didn't paid her bills.,Adger,4
+3187,ch5.147-148.*.04,Holly didn't finished the report.,Adger,84
+3188,ch5.147-148.*.05,Todd didn't told the truth.,Adger,78
+3189,ch5.147-148.*.06,Sarah didn't answered the question.,Adger,104
+3191,ch5.147-148.*.08,Kyle didn't apologized for the prank.,Adger,10
+3196,ch5.19-20.g.05,I predicted she was guilty.,Adger,6
+3200,ch5.21-22.*.01,I believed she is pregnant.,Adger,68
+3201,ch5.21-22.*.02,I thought he is honest.,Adger,102
+3203,ch5.21-22.*.04,I guessed he is married.,Adger,36
+3204,ch5.21-22.*.05,I predicted she is guilty.,Adger,12
+3205,ch5.21-22.*.06,I thought he is back in town.,Adger,96
+3206,ch5.21-22.*.07,I believed she is sick.,Adger,28
+3219,ch5.27-28.*.04,I guessed he shall be married.,Adger,68
+3220,ch5.27-28.*.05,I predicted she may be guilty.,Adger,2
+3221,ch5.27-28.*.06,I thought he can be back in town.,Adger,66
+3222,ch5.27-28.*.07,I believed she will be sick.,Adger,82
+3223,ch5.27-28.*.08,I assumed he shall be innocent.,Adger,78
+3224,ch5.31.*.01,Dale might loved Clare.,Adger,74
+3225,ch5.31.*.02,Marie could bought the book.,Adger,2
+3226,ch5.31.*.03,Tim should ate the apple.,Adger,2
+3227,ch5.31.*.04,Vince would cooked dinner.,Adger,12
+3228,ch5.31.*.05,Helen would rode the bus.,Adger,100
+3229,ch5.31.*.06,Jill should listened to the radio.,Adger,10
+3231,ch5.31.*.08,Evan might sold the house.,Adger,56
+3256,ch5.38.*.01,Benjamin said he ran away and ran away he.,Adger,76
+3257,ch5.38.*.02,Madeleine said she caught the sardines and caught the sardines she.,Adger,46
+3258,ch5.38.*.03,Tom said he won the trophy and won the trophy he.,Adger,56
+3259,ch5.38.*.04,Sally said she organized the meeting and organized the meeting she.,Adger,50
+3260,ch5.38.*.05,Paul said he bought a car and bought a car he.,Adger,56
+3262,ch5.38.*.07,Francis said he passed the class and passed the class he.,Adger,92
+3263,ch5.38.*.08,Tania said she hit a home run and hit a home run she.,Adger,6
+3265,ch5.39.g.02,Madeleine said she caught the sardines and caught the sardines she did.,Adger,2
+3272,ch5.45-46.*.01,She tried to left.,Adger,22
+3273,ch5.45-46.*.02,We wanted to ate cake.,Adger,2
+3274,ch5.45-46.*.03,He promised to behaved.,Adger,2
+3277,ch5.45-46.*.06,I promised to helped after school.,Adger,16
+3279,ch5.45-46.*.08,We tried to explained ourselves.,Adger,28
+3281,ch5.47-48.*.02,We wanted to can eat cake.,Adger,94
+3286,ch5.47-48.*.07,She wanted to can take a vacation.,Adger,12
+3293,ch5.49.*.06,I promised to do help after school.,Adger,88
+3303,ch5.50.g.08,Vivian promised to watche the kids and Neil agreed to as well.,Adger,88
+3314,ch5.8.*.03,Caroline bake can cupcakes.,Adger,2
+3316,ch5.8.*.05,Alicia find will a new job.,Adger,2
+3336,ch5.84.*.01,"I'd planned to have finished, and have finished I did.",Adger,2
+3344,ch5.84.g.01,"I'd planned to have finished, and finished I have",Adger,44
+3350,ch5.84.g.07,"I'd planned to have motivated them, and motivated them I have.",Adger,22
+3353,ch5.9.*.02,What Brian does is must call Susan.,Adger,40
+3354,ch5.9.*.03,What Caroline does is can bake cupcakes.,Adger,102
+3355,ch5.9.*.04,What Richard does is should stay home today.,Adger,40
+3356,ch5.9.*.05,What Alicia does is will find a new job.,Adger,34
+3357,ch5.9.*.06,What Kelly does is may forget her homework.,Adger,8
+3358,ch5.9.*.07,What San does is can lift 300 pounds.,Adger,42
+3359,ch5.9.*.08,What Cassandra does is must be home before midnight.,Adger,2
+3376,ch5.93.*.01,Jason is having argued with Noel.,Adger,38
+3377,ch5.93.*.02,Carrie is having baked brownies.,Adger,104
+3382,ch5.93.*.07,Allison is having met with patients.,Adger,12
+3405,ch6.102.*.06,There were closed four schools by the budget cuts.,Adger,10
+3406,ch6.102.*.07,There were performed six marriages by the minister.,Adger,72
+3407,ch6.102.*.08,There were robbed eight casinos by the criminals.,Adger,4
+3416,ch6.106.*.01,Elliot quickly may free the animals.,Adger,12
+3418,ch6.106.*.03,Lewis easily will pass the test.,Adger,98
+3420,ch6.106.*.05,Tania thoroughly should check her work.,Adger,102
+3421,ch6.106.*.06,Jenny accurately will calculate the results.,Adger,2
+3422,ch6.106.*.07,Nick safely will transport the cargo.,Adger,20
+3423,ch6.106.*.08,Dennis carefully must place the vase back on the shelf.,Adger,100
+3437,ch6.108-109.g.06,Jenny would accurately have calculatd the results.,Adger,26
+3440,ch6.112-113.*.01,Garry failed often calculus exams.,Adger,4
+3443,ch6.112-113.*.04,Sam read slowly the report.,Adger,6
+3444,ch6.112-113.*.05,Natalie lifted easily the weights.,Adger,2
+3447,ch6.112-113.*.08,Tracy inspected thoroughly the damage.,Adger,90
+3453,ch6.112-113.g.06,Fred safely drove the car.,Adger,16
+3456,ch6.38.g.01,She has kissed her.,Adger,2
+3458,ch6.38.g.03,He has called him.,Adger,2
+3471,ch6.39.*.08,Me invited them to the party.,Adger,8
+3472,ch6.40.*.01,She has kissed she.,Adger,2
+3473,ch6.40.*.02,I offered they some tea.,Adger,96
+3474,ch6.40.*.03,He has called he.,Adger,82
+3475,ch6.40.*.04,They sent I a birthday card.,Adger,26
+3477,ch6.40.*.06,She told I to go home.,Adger,2
+3478,ch6.40.*.07,He asked she to borrow the car.,Adger,96
+3479,ch6.40.*.08,I invited they to the party.,Adger,42
+3488,ch6.45b.*.01,There was him in the garden.,Adger,38
+3489,ch6.45b.*.02,There was her in the classroom.,Adger,44
+3490,ch6.45b.*.03,There were us at the concert.,Adger,52
+3491,ch6.45b.*.04,There was me at the meeting.,Adger,42
+3492,ch6.45b.*.05,There was me in the kitchen.,Adger,50
+3493,ch6.45b.*.06,There were us cleaning the house.,Adger,4
+3494,ch6.45b.*.07,There was her tending the bar.,Adger,22
+3495,ch6.45b.*.08,There was him grooming the dog.,Adger,8
+3520,ch6.58.g.01,He has known him.,Adger,4
+3522,ch6.58.g.03,They have insired me.,Adger,96
+3537,ch6.9-10.*.02,Twins have many been studied by doctors.,Adger,106
+3538,ch6.9-10.*.03,Teachers have most been certified by the state.,Adger,20
+3539,ch6.9-10.*.04,Parents have many taken child safety classes.,Adger,48
+3542,ch6.9-10.*.07,Shoes have many been designed for serious hiking.,Adger,74
+3552,ch6.93.*.01,The clothes were stole.,Adger,2
+3556,ch6.93.*.05,The treasure was hid.,Adger,20
+3557,ch6.93.*.06,The winner was chose.,Adger,10
+3560,ch6.93.*.09,The mailman was bit.,Adger,2
+3575,ch6.98.g.06,The situation was anticipated by the couple.,Adger,10
+3579,ch6.99.*.02,The window fell by the earthquake.,Adger,32
+3584,ch6.99.*.07,The bed shook by the earthquake.,Adger,92
+3592,ch7.102.g.07,My opinion article is in the newspaper.,Adger,18
+3594,ch7.103.*.01,A book of my is on the desk.,Adger,38
+3598,ch7.103.*.05,A jacket of my is in the closet.,Adger,38
+3599,ch7.103.*.06,A poem of my is in the anthology.,Adger,46
+3600,ch7.103.*.07,A opinion of my article is in the newspaper.,Adger,98
+3601,ch7.103.*.08,A necklace of my is for sale on ebay.,Adger,2
+3608,ch7.104.g.07,A opinion of mine article is in the newspaper.,Adger,88
+3615,ch7.105.*.06,The president's appointment of Paul's was controversial.,Adger,44
+3617,ch7.105.*.08,The host's invitation of Kim's was controversial.,Adger,56
+3620,ch7.105.g.03,The manager's recommendation of Lois was stellar.,Adger,20
+3625,ch7.105.g.08,The host's invitation of Kim was controversial.,Adger,72
+3634,ch7.30-33.*.01,The this man needs a taxi.,Adger,34
+3635,ch7.30-33.*.02,Each a guest gets a complimentary breakfast.,Adger,108
+3636,ch7.30-33.*.03,Some those letters have the incorrect postage.,Adger,6
+3637,ch7.30-33.*.04,A the detective solved the case.,Adger,42
+3638,ch7.30-33.*.05,Some these groceries need to be refrigerated.,Adger,16
+3639,ch7.30-33.*.06,The a band released a new album.,Adger,4
+3640,ch7.30-33.*.07,Each the employee called in sick.,Adger,2
+3650,ch7.4.*.01,Letters the are on the table.,Adger,78
+3653,ch7.4.*.04,Coats these belong in the closet.,Adger,14
+3654,ch7.4.*.05,Plants some need to be watered daily.,Adger,78
+3655,ch7.4.*.06,Mosquitoes many spread malaria.,Adger,36
+3657,ch7.4.*.08,Elephant that has long tusks.,Adger,72
+3666,ch7.53.*.01,The Evan's idea is brilliant.,Adger,2
+3667,ch7.53.*.02,The Patty's dog is sick.,Adger,68
+3669,ch7.53.*.04,The Phil's wallet is missing.,Adger,20
+3672,ch7.53.*.07,The Audrey's movie is very famous.,Adger,102
+3673,ch7.53.*.08,The Caroline's decorations are beautiful.,Adger,78
+3679,ch7.54.*.06,Brenda's the store is closed.,Adger,20
+3691,ch7.7.*.02,Cat is in the yard.,Adger,76
+3694,ch7.7.*.05,Plant needs to be watered daily.,Adger,12
+3696,ch7.7.*.07,Duck has webbed feet.,Adger,100
+3699,ch7.89.*.02,She introduction him to the crowd was humorous.,Adger,44
+3703,ch7.89.*.06,They appointment him was controversial.,Adger,56
+3708,ch7.90.g.03,His recommendation of her was stellar.,Adger,4
+3711,ch7.90.g.06,Their appointment of him was constroversial.,Adger,6
+3723,ch8.103.*.02,Susan arranged for they to tour the White House.,Adger,70
+3728,ch8.103.*.07,Dina arranged for he to have a summer internship.,Adger,76
+3729,ch8.103.*.08,Larry intended for they to spend the holidays together.,Adger,92
+3738,ch8.105.*.01,For to do that would be a mistake.,Adger,54
+3739,ch8.105.*.02,For to say that would be rude.,Adger,4
+3741,ch8.105.*.04,For to pass the test would be a miracle.,Adger,16
+3742,ch8.105.*.05,For to win the match would be an upset.,Adger,4
+3743,ch8.105.*.06,For to lie would be a mistake.,Adger,36
+3744,ch8.105.*.07,For to uncover the secret would be impossible.,Adger,14
+3745,ch8.105.*.08,For to lose the sales data would be disastrous.,Adger,2
+3757,ch8.120.g.04,We assumed her to be honest.,Adger,46
+3778,ch8.133.*.01,What Brian believed was him to be omnipotent.,Adger,40
+3779,ch8.133.*.02,What Susan considered was her to be intelligent.,Adger,2
+3781,ch8.133.*.04,What Alicia assumed was him to be honest.,Adger,100
+3782,ch8.133.*.05,What Katherine assumed was her to be trustworthy.,Adger,6
+3784,ch8.133.*.07,What Dina considered was him to be wise.,Adger,8
+3785,ch8.133.*.08,What Larry believed was him to be responsible.,Adger,6
+3810,ch8.166.g.01,It stinks that Zeus is omnipotent.,Adger,46
+3818,ch8.167.*.01,Zeus stinks to be omnipotent.,Adger,6
+3819,ch8.167.*.02,Jenny hurts to be dating someone new.,Adger,38
+3820,ch8.167.*.03,Zack helps to be willing to drive.,Adger,10
+3821,ch8.167.*.04,Linda sucks to be losing her job.,Adger,58
+3831,ch8.168-169.g.06,There is likely to be party for your birthday.,Adger,90
+3834,ch8.176.*.01,There seems a man to be in the garden.,Adger,24
+3835,ch8.176.*.02,There appears a problem to be with this solution.,Adger,26
+3839,ch8.176.*.06,There is likely a party to be for your birthday.,Adger,34
+3840,ch8.176.*.07,There appears a police officer to be at the door.,Adger,2
+3841,ch8.176.*.08,There seems a letter to be on the table.,Adger,60
+3844,"ch8.184,186.g.03",I assumed there to be more time before the deadline.,Adger,2
+3845,"ch8.184,186.g.04",I thought there to be consensus about the solution.,Adger,24
+3846,"ch8.184,186.g.05",I thought there to be instructions in the box.,Adger,8
+3851,"ch8.185,187.*.02",I ordered there to be three books on the subject.,Adger,40
+3852,"ch8.185,187.*.03",I told there to be more time before the deadline.,Adger,10
+3853,"ch8.185,187.*.04",I forced there to be consensus about the solution.,Adger,18
+3855,"ch8.185,187.*.06",I told there to be policies to protect patients.,Adger,10
+3856,"ch8.185,187.*.07",I ordered there to be money in the budget for emergencies.,Adger,14
+3883,"ch8.24,26.*.02",What Marcy wondered if was the meeting would start on time.,Adger,62
+3884,"ch8.24,26.*.03",What Kelsey wondered whether was the store had the DVD in stock.,Adger,14
+3885,"ch8.24,26.*.04",What James wondered if was the mechanic could fix the steering problem.,Adger,78
+3886,"ch8.24,26.*.05",What Daniel wondered whether was the rain would stop before rush hour.,Adger,90
+3887,"ch8.24,26.*.06",What Ellen wondered if was the marathon would be canceled because of the extreme heat.,Adger,78
+3888,"ch8.24,26.*.07",What Sarah wondered whether was the package had been delivered yet.,Adger,2
+3889,"ch8.24,26.*.08",What Thomas wondered if was the train would arrive on time.,Adger,78
+3911,ch8.3.*.06,What they thought that was the plot of the movie was unoriginal.,Adger,14
+3930,ch8.56.g.01,That the answer is obvious upset Helen.,Adger,4
+3935,ch8.56.g.06,That the rumor is untrue comforted Sally.,Adger,10
+3938,ch8.57.*.01,That that the world is round is obvious upset Helen.,Adger,6
+3939,ch8.57.*.02,That that the banks are honest is false annoyed Clare.,Adger,98
+3940,ch8.57.*.03,That that the politicians are corrupt is actually true surprised Peter.,Adger,48
+3941,ch8.57.*.04,That that the army is over-extended is not secret worried the General.,Adger,68
+3942,ch8.57.*.05,That that the prisoners were tortured was kept secret worried the president.,Adger,90
+3943,ch8.57.*.06,That that the hospital is closing is untrue comforted Sally.,Adger,38
+3944,ch8.57.*.07,That that the goverenment is hiding evidence of aliens is constantly repeated frustrated Cindy.,Adger,96
+3945,ch8.57.*.08,That that the CIA assassinated world leaders was never revealed irritated Harrold.,Adger,56
+3946,ch8.58.*.01,That whether the world is round is unknown upset Helen.,Adger,26
+3947,ch8.58.*.02,That whether the banks are honest is unclear annoyed Clare.,Adger,36
+3948,ch8.58.*.03,That whether the politicians are corrupt is still debated surprised Peter.,Adger,66
+3949,ch8.58.*.04,That whether the army is over-extended is unknown worried the General.,Adger,74
+3950,ch8.58.*.05,That whether the prisoners were tortured was still unknown worried the president.,Adger,12
+3951,ch8.58.*.06,That whether the hospital is closing is unanswered frightened Sally.,Adger,88
+3952,ch8.58.*.07,That whether the goverenment is hiding evidence of aliens is unclear frustrated Cindy.,Adger,92
+3953,ch8.58.*.08,That whether the CIA assassinated world leaders was purposefully unanswered irritated Harrold.,Adger,6
+3957,ch8.6.?.04,That the legend was real was claimed by the old man.,Adger,4
+3959,ch8.6.?.06,That the party was spectacular was claimed by everyone.,Adger,2
+3971,ch8.64.*.02,That Nina had won surprised the coach insulted her.,Adger,54
+3972,ch8.64.*.03,That William got the job impressed Lauren was clear.,Adger,98
+3973,ch8.64.*.04,That Donald had gotten sick worried his wife upset him.,Adger,12
+3976,ch8.64.*.07,That Terry left the dinner party early annoyed the host was obvious.,Adger,30
+3977,ch8.64.*.08,That Stanley disobeyed an order frustrated the other soldiers concerned the unit commander.,Adger,92
+3978,ch8.65.*.01,I said that that Jason had arrived annoyed Mandy.,Adger,44
+3979,ch8.65.*.02,I said that that Nina had won surprised the coach.,Adger,68
+3980,ch8.65.*.03,I said that that William got the job impressed Lauren.,Adger,106
+3981,ch8.65.*.04,I said that that Donald had gotten sick worried his wife.,Adger,78
+3982,ch8.65.*.05,I said that that Melanie joined the sorority frightened her parents.,Adger,46
+3983,ch8.65.*.06,I said that that Elizabeth married a millionaire impressed her coworkers.,Adger,58
+3984,ch8.65.*.07,I said that that Terry left the dinner party early annoyed the host.,Adger,22
+3985,ch8.65.*.08,I said that that Stanley disobeyed an order frustrated the other soldiers.,Adger,8
+3994,ch8.70.g.01,There arrived a new actor on the set.,Adger,4
+3998,ch8.70.g.05,There arose a new a problem.,Adger,2
+3999,ch8.70.g.06,There arrived a new student in the class.,Adger,2
+4003,ch8.71.*.02,The debaters finally emerged a consensus.,Adger,102
+4004,ch8.71.*.03,The book existed two methods for solving the problem.,Adger,6
+4019,"ch8.76,78.*.02",Nate planned Nate to watch television.,Adger,2
+4024,"ch8.76,78.*.07",Shelly planned Shelly to attend law school.,Adger,84
+4026,"ch8.77,79.*.01",Laura tried the babysitter to bathe her children.,Adger,14
+4027,"ch8.77,79.*.02",Nate planned the children to watch television.,Adger,108
+4032,"ch8.77,79.*.07",Shelly planned the girl to attend law school.,Adger,94
+4036,ch8.92.*.03,We thought to be generous.,Adger,56
+4037,ch8.92.*.04,We assumed to be honest.,Adger,8
+4050,ch9.105.*.01,Jason thinks who Nancy poisoned.,Adger,4
+4051,ch9.105.*.02,Andy thinks what Carl bought.,Adger,24
+4053,ch9.105.*.04,Mary thinks how Lewis survived.,Adger,16
+4055,ch9.105.*.06,Jennifer thinks what Dan cooked for breakfast.,Adger,24
+4056,ch9.105.*.07,James thinks who Lisa married.,Adger,6
+4058,ch9.12.*.01,Someone did Nancy poison.,Adger,96
+4059,ch9.12.*.02,Something did Carl buy.,Adger,18
+4060,ch9.12.*.03,Some time did Lindsay leave.,Adger,26
+4061,ch9.12.*.04,Somehow did Lewis survive.,Adger,52
+4062,ch9.12.*.05,Somewhere did Sophie live.,Adger,82
+4063,ch9.12.*.06,Something did Dan cook for breakfast.,Adger,88
+4064,ch9.12.*.07,Someone did Lisa marry.,Adger,46
+4065,ch9.12.*.08,Somewhere did Katie go to school.,Adger,84
+4066,ch9.120.*.01,Who did who poison?,Adger,12
+4067,ch9.120.*.02,What did who buy?,Adger,94
+4069,ch9.120.*.04,Who did who help?,Adger,64
+4072,ch9.120.*.07,Who did who ask to the prom?,Adger,2
+4080,ch9.120.g.07,Who asked who to the prom?,Adger,88
+4081,ch9.120.g.08,Who studied what in school?,Adger,54
+4090,ch9.123.*.01,Who did Anna introduce who to?,Adger,40
+4091,ch9.123.*.02,Who did Sandy give what to?,Adger,70
+4092,ch9.123.*.03,Who did Bill send what to?,Adger,56
+4093,ch9.123.*.04,Who did Jessica loan what to?,Adger,42
+4094,ch9.123.*.05,Who did Jeff throw what to?,Adger,42
+4095,ch9.123.*.06,Who did Reggie sell what to?,Adger,18
+4096,ch9.123.*.07,Who did Crystal tell what to?,Adger,34
+4097,ch9.123.*.08,Who did Heather teach what to?,Adger,72
+4104,ch9.124.g.07,Which football player asked which cheerleader to the prom?,Adger,50
+4105,ch9.124.g.08,Which student studied which major in school?,Adger,44
+4108,ch9.125.g.03,Which book did which student read?,Adger,2
+4114,ch9.25-27.*.01,Where place are you living?,Adger,10
+4115,ch9.25-27.*.02,When time will you be there?,Adger,94
+4116,ch9.25-27.*.03,Who guy did you see?,Adger,76
+4117,ch9.25-27.*.04,Where store do you like to shop?,Adger,22
+4118,ch9.25-27.*.05,When time did you arrive?,Adger,94
+4120,ch9.25-27.*.07,Where place did you go?,Adger,64
+4121,ch9.25-27.*.08,Who teacher do you admire most?,Adger,2
+4123,ch9.28-29.g.02,What kind of actor is he?,Adger,8
+4130,ch9.32-33.*.01,Which the poem did Harry recite?,Adger,20
+4131,ch9.32-33.*.02,What the kind of actor is he?,Adger,100
+4132,ch9.32-33.*.03,Which the criminal did you see?,Adger,102
+4134,ch9.32-33.*.05,Which the train did you arrive on?,Adger,50
+4135,ch9.32-33.*.06,Which the bridesmaid did you escort?,Adger,6
+4137,ch9.32-33.*.08,Which the teacher do you admire most?,Adger,6
+4146,ch9.83.*.01,I wondered could we leave early.,Adger,8
+4149,ch9.83.*.04,I wondered could we find a replacement.,Adger,2
